@@ -126,83 +126,87 @@ Intel 官方 GitHub 组织提供了较强的同期旁证。2019 年 3 月，`yin
 |[yinwang0](https://github.com/yinwang0)|GitHub|开源项目主页|
 |[yinwang0’s gists](https://gist.github.com/yinwang0)|GitHub Gist|代码片段主页|
 
-## 开源项目
+## 开源项目（最后核验：2026-08-08）
 
-|名称|类型|说明|
-|:--|:--|:--|
-|[PySonar2](https://github.com/yinwang0/pysonar2)|静态分析工具|Python 语义索引与类型推导|
-|[ydiff](https://github.com/yinwang0/ydiff)|程序比较工具|结构化程序比较工具|
-|[psydiff](https://github.com/yinwang0/psydiff)|程序比较工具|Python 结构化程序比较工具|
-|[rubysonar](https://github.com/yinwang0/rubysonar)|静态分析工具|Ruby 语义索引与类型推导|
-|[tinyKanren](https://github.com/yinwang0/tinyKanren)|程序语言|miniKanren 的精简实现|
+以下日期取自 GitHub：创建日期为仓库创建时间，最近更新为默认分支最新提交日期，不使用可能受标签或镜像同步影响的 `pushed_at`。项目按最近更新倒序排列。
+
+|名称|类型|创建日期|最近更新|说明|
+|:--|:--|:--|:--|:--|
+|[PySonar2](https://github.com/yinwang0/pysonar2)|静态分析工具|2013-10-29|2025-07-04|Python 语义索引与类型推导|
+|[tinyKanren](https://github.com/yinwang0/tinyKanren)|程序语言|2022-04-19|2022-05-02|miniKanren 的精简实现|
+|[rubysonar](https://github.com/yinwang0/rubysonar)|静态分析工具|2013-12-17|2019-11-05|Ruby 语义索引与类型推导|
+|[psydiff](https://github.com/yinwang0/psydiff)|程序比较工具|2013-07-06|2016-10-13|Python 结构化程序比较工具|
+|[ydiff](https://github.com/yinwang0/ydiff)|程序比较工具|2014-03-06|2015-02-06|结构化程序比较工具|
 
 ## 内容备份与镜像
 
-以下页面由本站或第三方维护，并非王垠本人维护的官方网站。
+以下页面由本站或第三方维护，并非王垠本人维护的官方网站。对有公开源码仓库的项目，创建和更新日期均取自对应仓库；最近更新指默认分支最新提交，不代表镜像收录内容的原始发表日期。列表按最近更新倒序排列。（最后核验：2026-08-08）
 
-|名称|类型|说明|
-|:--|:--|:--|
-|[博客文章镜像](https://smallyunet.github.io/yinwang-blog/)|第三方镜像|王垠博客文章存档|
-|[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/)|第三方镜像|王垠微博内容存档|
-|[Substack 内容镜像](https://smallyunet.github.io/yinwang-substack/)|第三方镜像|王垠 Substack 内容存档|
-|[王垠百科文章归档]({{ '/archive/' | relative_url }})|本站归档|本站收录的文章列表|
-|[“当然我在扯淡”订阅归档](https://yinwang-wiki.github.io/feeds/)|本站归档|博客订阅内容归档|
-|[YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)|GitHub 仓库|第三方内容备份项目|
-|[王垠博客备份](https://yinwang.jrtx.site/)|第三方镜像|自动备份 yinwang.org 博客文章|
-|[yinwangdl](https://github.com/turinglambdaai/yinwangdl)|GitHub 仓库|王垠博客自动备份项目|
-|[当然我在扯淡](https://henix.github.io/feeds/yinwang/)|第三方归档|博客文章订阅归档|
-|[王垠博客 PDF 备份](https://yinwang-wiki.github.io/yinwang-blog-backup/yinwang_blog_backup.pdf)|PDF 归档|博客文章离线备份|
+|名称|类型|创建日期|最近更新|说明|
+|:--|:--|:--|:--|:--|
+|[王垠百科文章归档]({{ '/archive/' | relative_url }})|本站归档|2023-03-06|2026-08-08|本站收录的文章列表；[源码仓库](https://github.com/yinwang-wiki/yinwang-wiki.github.io)|
+|[“当然我在扯淡”订阅归档](https://yinwang-wiki.github.io/feeds/)|本站归档|2025-07-25|2026-08-08|博客订阅内容归档；[源码仓库](https://github.com/yinwang-wiki/feeds)|
+|[王垠博客 PDF 备份](https://yinwang-wiki.github.io/yinwang-blog-backup/yinwang_blog_backup.pdf)|PDF 归档|2022-08-29|2026-08-08|博客文章离线备份；[源码仓库](https://github.com/yinwang-wiki/yinwang-blog-backup)|
+|[Substack 内容镜像](https://smallyunet.github.io/yinwang-substack/)|第三方镜像|2026-02-09|2026-08-08|王垠 Substack 内容存档；[源码仓库](https://github.com/smallyunet/yinwang-substack)|
+|[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/)|第三方镜像|2026-01-26|2026-08-07|王垠微博内容存档；[源码仓库](https://github.com/smallyunet/yinwang-weibo)|
+|[博客文章镜像](https://smallyunet.github.io/yinwang-blog/)|第三方镜像|2026-01-18|2026-07-25|王垠博客文章存档；[源码仓库](https://github.com/smallyunet/yinwang-blog)|
+|[王垠博客备份](https://yinwang.jrtx.site/)|第三方镜像|2018-11-12|2026-07-30|自动备份 yinwang.org；[源码仓库](https://github.com/jrtxio/yinwangdl)|
+|[yinwangdl](https://github.com/turinglambdaai/yinwangdl)|GitHub 仓库|2018-11-12|2026-07-30|王垠博客自动备份项目|
+|[YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)|GitHub 仓库|2016-06-23|2024-05-07|第三方内容备份项目|
+|[当然我在扯淡](https://henix.github.io/feeds/yinwang/)|第三方归档|2015-07-02|2021-05-16|博客文章订阅归档；[源码仓库](https://github.com/henix/feeds)|
 
 ## 学术论文与专题资料
 
-|名称|类型|说明|
-|:--|:--|:--|
-|[Register Allocation By Model Transformer Semantics](https://arxiv.org/abs/1202.5539)|学术论文|合作者：R. Kent Dybvig|
-|[Voronoi 图的 Beachline 扫描算法的三维图形演示](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/2001f/2001f-a.pdf)|课程项目|清华计算机系 2001 年秋季 Computational Geometry 项目档案，署名王益、王垠、潘达|
-|[非直角互连——布线技术发展的新趋势](https://www.jos.ac.cn/en/article/id/0b362945-dd24-4bd3-8ec3-39b6c66ddf0c)|学术论文|2003 年《半导体学报》，IC CAD 与布线研究|
-|[Rectilinear Steiner Minimal Tree among Obstacles](https://doi.org/10.1109/ICASIC.2003.1277559)|学术论文|2003 年 IEEE 会议论文|
-|[An Efficient Low-Degree RMST Algorithm for VLSI/ULSI Physical Design](https://doi.org/10.1007/978-3-540-30205-6_46)|学术论文|2004 年 Springer LNCS 论文，列有清华计算机系机构与校内邮箱|
-|[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://doi.org/10.1145/1120725.1120731)|学术论文|ASP-DAC 2005 论文|
-|[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://dblp.org/rec/conf/aspdac/WangHJYHY05)|DBLP 记录|论文书目记录|
-|[ASP-DAC 2005 Best Papers](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)|获奖资料|ASP-DAC 2005 获奖论文名单|
-|[Yin's Blog - Mind Map](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|思维导图|王垠为博客内容绘制的分类图|
-|[Yin's Mid-Term Memory](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|思维导图|王垠中期记忆的思维导图|
-|[Static Analysis of Dynamically Typed Languages made Easy](https://www.yinwang.org/resources/pysonar-slides.pdf)|演讲幻灯片|关于动态语言静态分析的幻灯片|
-|[Ground-Up Computer Science — Chapter 1](https://www.yinwang.org/resources/gucs-sample-chapter1.pdf)|教材样章|Functions|
-|[Ground-Up Computer Science — Chapter 2](https://www.yinwang.org/resources/gucs-sample-chapter2.pdf)|教材样章|Recursion|
-|[Ground-Up Computer Science — Chapter 3](https://www.yinwang.org/resources/gucs-sample-chapter3.pdf)|教材样章|Chapter 3|
-|[Ground-Up Computer Science — Chapter 4](https://www.yinwang.org/resources/gucs-sample-chapter4.pdf)|教材样章|Trees|
-|[Ground-Up Computer Science — Chapter 5](https://www.yinwang.org/resources/gucs-sample-chapter5.pdf)|教材样章|Calculator|
+年份采用论文出版年、课程学期或资料正文标注的时间；未找到可靠时间的条目列在最后。相同论文的正文、书目和获奖记录相邻排列，整体按年份倒序。（最后核验：2026-08-08）
+
+|名称|类型|年份|说明|
+|:--|:--|:--|:--|
+|[Ground-Up Computer Science — Chapter 5](https://www.yinwang.org/resources/gucs-sample-chapter5.pdf)|教材样章|2023|Calculator；年份取 PDF 创建/修改元数据|
+|[Ground-Up Computer Science — Chapter 4](https://www.yinwang.org/resources/gucs-sample-chapter4.pdf)|教材样章|2023|Trees；年份取 PDF 创建/修改元数据|
+|[Ground-Up Computer Science — Chapter 3](https://www.yinwang.org/resources/gucs-sample-chapter3.pdf)|教材样章|2023|Chapter 3；年份取 PDF 创建/修改元数据|
+|[Ground-Up Computer Science — Chapter 2](https://www.yinwang.org/resources/gucs-sample-chapter2.pdf)|教材样章|2022|Recursion；年份取 PDF 创建/修改元数据|
+|[Ground-Up Computer Science — Chapter 1](https://www.yinwang.org/resources/gucs-sample-chapter1.pdf)|教材样章|2022|Functions；年份取 PDF 创建/修改元数据|
+|[Register Allocation By Model Transformer Semantics](https://arxiv.org/abs/1202.5539)|学术论文|2012|合作者：R. Kent Dybvig|
+|[Static Analysis of Dynamically Typed Languages made Easy](https://www.yinwang.org/resources/pysonar-slides.pdf)|演讲幻灯片|2012|关于动态语言静态分析；年份取本人相关文章所述演讲时间|
+|[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://doi.org/10.1145/1120725.1120731)|学术论文|2005|ASP-DAC 2005 论文|
+|[同篇论文的 DBLP 记录](https://dblp.org/rec/conf/aspdac/WangHJYHY05)|DBLP 记录|2005|论文书目记录|
+|[ASP-DAC 2005 Best Papers](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)|获奖资料|2005|ASP-DAC 2005 获奖论文名单|
+|[An Efficient Low-Degree RMST Algorithm for VLSI/ULSI Physical Design](https://doi.org/10.1007/978-3-540-30205-6_46)|学术论文|2004|Springer LNCS 论文，列有清华计算机系机构与校内邮箱|
+|[非直角互连——布线技术发展的新趋势](https://www.jos.ac.cn/en/article/id/0b362945-dd24-4bd3-8ec3-39b6c66ddf0c)|学术论文|2003|《半导体学报》，IC CAD 与布线研究|
+|[Rectilinear Steiner Minimal Tree among Obstacles](https://doi.org/10.1109/ICASIC.2003.1277559)|学术论文|2003|IEEE 会议论文|
+|[Voronoi 图的 Beachline 扫描算法的三维图形演示](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/2001f/2001f-a.pdf)|课程项目|2001|清华计算机系秋季 Computational Geometry 项目档案，署名王益、王垠、潘达|
+|[Yin's Blog - Mind Map](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|思维导图|待核验|王垠为博客内容绘制的分类图|
+|[Yin's Mid-Term Memory](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|思维导图|待核验|王垠中期记忆的思维导图|
 
 ## 历史网站存档
 
 以下链接指向 Wayback Machine 历史快照或其他存档页面。
 
-|名称|来源|说明|
-|:--|:--|:--|
-|[Indiana 大学个人主页](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|Wayback Machine|王垠在 Indiana 大学的主页|
-|[Indiana 大学时期个人简历](https://web.archive.org/web/20120813002931/http://www.cs.indiana.edu/~yw21/CV.pdf)|Wayback Machine|2012 年简历，记录其博士生身份、教育、研究与教学经历|
-|[简书个人主页](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|Wayback Machine|王垠的简书主页|
-|[知乎主页](https://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|Wayback Machine|王垠早期的知乎主页|
-|[早期个人主页](https://docs.huihoo.com/homepage/shredderyin/)|Huihoo 镜像|王垠早期的个人主页|
-|[Yin Wang's Homepage](https://www.latexstudio.net/shredderyin/index.html)|LaTeXStudio 镜像|王垠早期的个人主页|
-|[新浪博客](https://blog.sina.com.cn/yinwang0)|新浪博客|王垠早期的博客主页|
-|[Flickr 相册](https://www.flickr.com/photos/wangyin/)|Flickr|王垠早期的照片主页|
-|[LOFTER](https://web.archive.org/web/*/http://yinwang0.lofter.com/)|Wayback Machine|王垠早期的 LOFTER 主页|
-|[Live 空间](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|Wayback Machine|王垠早期的 Live 空间|
-|[MSN 空间](https://web.archive.org/web/20060115082959/http://spaces.msn.com/members/shredderyin)|Wayback Machine|王垠早期的 MSN 空间|
+|名称|来源|快照或可考时间|说明|
+|:--|:--|:--|:--|
+|[简书个人主页](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|Wayback Machine|2016-10-23|简书主页快照|
+|[Indiana 大学个人主页](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|Wayback Machine|2013-11-03|Indiana University 个人主页快照|
+|[知乎主页](https://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|Wayback Machine|2013-08-01|知乎主页快照|
+|[Indiana 大学时期个人简历](https://web.archive.org/web/20120813002931/http://www.cs.indiana.edu/~yw21/CV.pdf)|Wayback Machine|2012-08-13|2012 年简历快照，记录其博士生身份、教育、研究与教学经历|
+|[Live 空间](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|Wayback Machine|2007-02-05|Live Space 快照|
+|[MSN 空间](https://web.archive.org/web/20060115082959/http://spaces.msn.com/members/shredderyin)|Wayback Machine|2006-01-15|MSN Spaces 快照|
+|[早期个人主页](https://docs.huihoo.com/homepage/shredderyin/)|Huihoo 镜像|约 2005|页面内容提及 2005 年退学文章；镜像日期未标注|
+|[Yin Wang's Homepage](https://www.latexstudio.net/shredderyin/index.html)|LaTeXStudio 镜像|约 2005|同一早期个人主页的另一镜像；镜像日期未标注|
+|[LOFTER](https://web.archive.org/web/*/http://yinwang0.lofter.com/)|Wayback Machine|待核验|快照时间列表|
+|[新浪博客](https://blog.sina.com.cn/yinwang0)|新浪博客|待核验|早期博客主页|
+|[Flickr 相册](https://www.flickr.com/photos/wangyin/)|Flickr|待核验|早期照片主页|
 
 ## 媒体采访与历史报道
 
 |名称|来源|日期|
 |:--|:--|:--|
-|[专访清华申请退学博士王垠：我会把退学坚持到底](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)|新浪新闻|2005-10-17|
 |[王垠“申请清华退学 我不后悔”](https://news.sina.com.cn/c/2005-10-24/10037246084s.shtml)|新浪新闻|2005-10-24|
 |[清华申请退学博士王垠：退学是为不失去创造力](https://news.sohu.com/20051022/n227277397.shtml)|搜狐新闻|2005-10-22|
+|[专访清华申请退学博士王垠：我会把退学坚持到底](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)|新浪新闻|2005-10-17|
 |[资料：王垠个人简历](https://star.news.sohu.com/20050927/n240459496.shtml)|搜狐新闻|2005-09-27|
 
 ## 相关转载与轶闻
 
-|名称|来源|说明|
-|:--|:--|:--|
-|[王垠的一条微博](https://blog.csdn.net/lcfactorization/article/details/51052324)|CSDN 转载|相关转载资料|
+|名称|来源|日期|说明|
+|:--|:--|:--|:--|
+|[王垠的一条微博](https://blog.csdn.net/lcfactorization/article/details/51052324)|CSDN 转载|2016-04-03|日期取转载页面发布时间|
