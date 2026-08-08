@@ -1,0 +1,33 @@
+---
+layout: null
+permalink: /404.html
+sitemap: false
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>页面未找到 · 王垠百科</title>
+    <script>
+      (function () {
+        var legacyPrefix = '/site';
+        var path = location.pathname;
+        if (path === legacyPrefix || path.indexOf(legacyPrefix + '/') === 0) {
+          var target = path.slice(legacyPrefix.length) || '/';
+          location.replace(target + location.search + location.hash);
+        }
+      }());
+    </script>
+    <style>
+      body { max-width: 42rem; margin: 12vh auto; padding: 0 1.5rem; font: 16px/1.7 system-ui, sans-serif; color: #24292f; }
+      a { color: #0969da; }
+    </style>
+  </head>
+  <body>
+    <h1>页面未找到</h1>
+    <p>你访问的页面不存在或已经移动。</p>
+    <p><a href="/">返回王垠百科首页</a></p>
+  </body>
+</html>

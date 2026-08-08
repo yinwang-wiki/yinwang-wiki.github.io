@@ -2,7 +2,7 @@
 
 ## 人物简介
 
-王垠：[四川大学](https://star.news.sohu.com/20050927/n240459496.shtml) 97 级本科毕业，保送到清华大学计算机系直博。曾在清华大学计算机系软件所就读，主要进行[集成电路布线算法](https://yinwang-wiki.github.io/site/blog/posts/2005/06/06/%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E.html)的研究。2004 年左右发表[《完全用 Linux 工作》](https://i.linuxtoy.org/docs/guide/ch06.html)和[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://blog.51cto.com/gjwrxz/6284783)的文章，在中国的计算机和 Linux 阵营引起极大轰动效应，成为水木清华 linuxapp 版和中国多个 Linux 社区的[偶像级人物](https://star.news.sohu.com/20050927/n240459496.shtml)。2005 年，王垠为第一作者的论文参加 IEEE/ACM Asia and South Pacific Design Automation Conference（[ASP-DAC 2005](https://www.aspdac.com/aspdac2005/eng/info/ASPDAC2005program.pdf)）国际学术会议并获得 [Best Paper Award](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)。这是自 ASP-DAC 会议举办以来大陆论文[首次获奖](https://star.news.sohu.com/20050927/n240459496.shtml)。
+王垠：[四川大学](https://star.news.sohu.com/20050927/n240459496.shtml) 97 级本科毕业，保送到清华大学计算机系直博。曾在清华大学计算机系软件所就读，主要进行[集成电路布线算法](https://yinwang-wiki.github.io/blog/posts/2005/06/06/%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E.html)的研究。2004 年左右发表[《完全用 Linux 工作》](https://i.linuxtoy.org/docs/guide/ch06.html)和[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://blog.51cto.com/gjwrxz/6284783)的文章，在中国的计算机和 Linux 阵营引起极大轰动效应，成为水木清华 linuxapp 版和中国多个 Linux 社区的[偶像级人物](https://star.news.sohu.com/20050927/n240459496.shtml)。2005 年，王垠为第一作者的论文参加 IEEE/ACM Asia and South Pacific Design Automation Conference（[ASP-DAC 2005](https://www.aspdac.com/aspdac2005/eng/info/ASPDAC2005program.pdf)）国际学术会议并获得 [Best Paper Award](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)。这是自 ASP-DAC 会议举办以来大陆论文[首次获奖](https://star.news.sohu.com/20050927/n240459496.shtml)。
 
 ## 头像与照片
 

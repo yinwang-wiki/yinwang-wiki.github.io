@@ -1,6 +1,6 @@
 # 王垠百科
 
-[访问网站](https://yinwang-wiki.github.io/site/) · [提交资料修正](https://github.com/yinwang-wiki/site/issues/new)
+[访问网站](https://yinwang-wiki.github.io/) · [提交资料修正](https://github.com/yinwang-wiki/yinwang-wiki.github.io/issues/new)
 
 本仓库是王垠百科网站的源代码与资料索引，收录公开账号、开源项目、论文、采访和历史网站存档。
 

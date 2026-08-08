@@ -4,6 +4,9 @@ remote_theme: Drassil/git-wiki-theme
 title: 王垠百科
 tagline: 文章与资料存档
 lang: zh-CN
+url: "https://yinwang-wiki.github.io"
+baseurl: ""
+repository: yinwang-wiki/yinwang-wiki.github.io
 # (string) Description of your wiki
 description: 王垠相关文章、学术资料、历史网站与内容备份索引
 # (boolean) disable edit functionalities (edit/delete/add pages)
