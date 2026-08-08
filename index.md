@@ -14,6 +14,16 @@ Cornell 的 [Programming Languages Group（PL@Cornell）](https://pl.cs.cornell.
 
 这里的 Alumni 是研究组“前成员”分类，本身不等于获得 Cornell 博士学位。Cornell 计算机系另一个 [Computer Science Ph.D. Alumni](https://www.cs.cornell.edu/phd-computer-science/alumni) 目录目前将同名条目标为“Yin Wang — Dexter Kozen — 2008”，但本站未找到相应博士学位论文，而 PL@Cornell 所链接的公开职业履历标注为 Cornell 计算机科学硕士。由于这些来源的学位口径存在歧义，本站不据此认定其取得 Cornell 博士学位。
 
+### Indiana University 经历
+
+王垠在 Indiana University Bloomington 计算机系服务器上的 [2012 年个人简历](https://web.archive.org/web/20120813002931/http://www.cs.indiana.edu/~yw21/CV.pdf)将其身份写为“PhD student in Computer Science at Indiana University Bloomington”。简历的教育经历栏记录为“PhD student, Computer Science, Sep 2008 – current（with one year on leave）”，研究方向为程序语言；同时列出与 Amr Sabry、R. Kent Dybvig 等人的研究，以及 B501、B461、C212 等课程的 teaching experience。
+
+其 [Indiana University 个人主页的 2013 年存档](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)还保留了校内邮箱、Lindley Hall 办公室、研究项目和课程记录。其中包括与 Amr Sabry 合作的可逆计算、定界续延与会话类型研究，以及 2011 年与 R. Kent Dybvig 合作的寄存器分配研究。页面列出的课程包括 2012 年春季 B501 Theory of Computation、2011 年秋季 B461 Database Concepts，以及 2008 至 2010 年间的 C212/A592 Introduction to Software Systems。由于页面和简历没有进一步标明具体教学职务，本站仅将其概括为“参与课程教学”。
+
+另有两项相互独立的机构和学术记录可以交叉佐证：University of Oregon 的 [OPLSS 2010 参会者名单](https://www.cs.uoregon.edu/research/summerschool/summer10/participants.html)将“Yin Wang”列为来自 Indiana University Bloomington；2012 年与 R. Kent Dybvig 合著的论文 [*Register Allocation By Model Transformer Semantics*](https://arxiv.org/abs/1202.5539)（[PDF 原文](https://arxiv.org/pdf/1202.5539)）在论文首页将两位作者的机构标为 Indiana University。Amr Sabry 等人的论文 [*The Two Dualities of Computation*](https://legacy.cs.indiana.edu/~sabry/papers/rational.pdf)还在致谢中感谢 Yin Wang 提出的问题和意见；这一材料可作为其参与当地研究讨论的补充线索，但不能单独证明学生身份或学位。
+
+上述材料可以确认王垠在 2008 至 2012 年间以博士生身份在 Indiana University Bloomington 学习，并参与程序语言研究和课程教学，但“博士生”不等于“博士毕业”。其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将这段教育经历标为计算机科学硕士（2008—2012）；截至 2026 年 8 月 8 日，本站尚未找到可独立确认该硕士学位的 Indiana University 公开学位名录或学位论文记录，因此将“硕士”保留为本人公开履历中的自述，也不据现有材料认定其取得 Indiana University 博士学位。
+
 ## 头像与照片
 
 <div class="profile-gallery">
@@ -105,6 +115,7 @@ Cornell 的 [Programming Languages Group（PL@Cornell）](https://pl.cs.cornell.
 |名称|来源|说明|
 |:--|:--|:--|
 |[Indiana 大学个人主页](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|Wayback Machine|王垠在 Indiana 大学的主页|
+|[Indiana 大学时期个人简历](https://web.archive.org/web/20120813002931/http://www.cs.indiana.edu/~yw21/CV.pdf)|Wayback Machine|2012 年简历，记录其博士生身份、教育、研究与教学经历|
 |[简书个人主页](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|Wayback Machine|王垠的简书主页|
 |[知乎主页](https://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|Wayback Machine|王垠早期的知乎主页|
 |[早期个人主页](https://docs.huihoo.com/homepage/shredderyin/)|Huihoo 镜像|王垠早期的个人主页|
