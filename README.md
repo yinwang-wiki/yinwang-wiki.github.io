@@ -10,14 +10,16 @@
 ## 仓库结构
 
 - `index.md`：网站首页与资料索引
-- `_posts/`：站内文章
+- `_posts/`：历史文章归档及其来源元数据
+- `archive.md`：按主题整理的文章目录
+- `EDITORIAL_POLICY.md`：编辑、来源与归档政策
 - `wiki/`：专题资料
 - `assets/`：样式、图片与归档文件
 - `_layouts/`、`_includes/`：Jekyll 页面模板
 
 ## 参与维护
 
-欢迎补充公开、可核验的来源，修复失效链接或纠正事实错误。提交前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
+欢迎补充公开、可核验的来源，修复失效链接或纠正事实错误。提交前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 和 [编辑与归档政策](EDITORIAL_POLICY.md)。
 
 ## 内容与版权
 

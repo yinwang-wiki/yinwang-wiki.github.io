@@ -16,6 +16,18 @@
 - 对存在争议的信息使用中性表述，并清楚区分事实、引用和编辑说明。
 - 不收录私人联系方式、未公开的个人信息或与资料整理无关的敏感信息。
 
+## 历史文章元数据
+
+新增或修订 `_posts/` 中的归档文章时，必须维护 `title`、`date`、`original_date`、`author`、`content_type`、`topic`、`source_status`、`fact_checked`、`rights` 和 `permalink`。其中：
+
+- 原始页面可核验时，使用 `source_status: documented` 并填写 `source_url`；否则使用 `source_status: unavailable`，不要猜测链接。
+- 归档正文默认使用 `fact_checked: false`，避免把“已收录”误解为“已证实”。
+- 原文中丢失的链接、图片或附件要明确说明；找到可靠目标后再恢复链接。
+- 对群体概括、侮辱性措辞或重大科学与历史争议，添加简明、中性的 `content_warning`。
+- 不静默改写作者观点；编辑说明应与历史正文清楚区分。
+
+提交前运行 `ruby scripts/validate_content.rb` 检查元数据和常见缺失链接提示。
+
 ## 提交方式
 
 小修正可以直接提交 pull request。较大的内容调整或可能引发争议的条目，请先创建 issue 说明来源和修改理由。

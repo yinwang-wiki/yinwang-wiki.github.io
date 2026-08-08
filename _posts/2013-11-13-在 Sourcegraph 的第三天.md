@@ -1,6 +1,17 @@
 ---
-title: 在 Sourcegraph 的第三天
-date: 2013-11-13 00:00 +0800
+title: "在 Sourcegraph 的第三天"
+date: 2013-11-13 12:00:00 +0800
+original_date: 2013-11-13
+author: 王垠
+content_type: historical_archive
+topic: 职业与个人经历
+source_status: documented
+source_url: "https://web.archive.org/web/20140210021252/http://www.yinwang.org/blog-cn/2013/11/13/sg3/"
+fact_checked: false
+rights: 原作者保留权利；本站未授予额外许可
+permalink: "/blog/posts/2013/11/13/在-Sourcegraph-的第三天.html"
+redirect_from:
+  - "/blog/posts/2013/11/12/在-Sourcegraph-的第三天.html"
 ---
 
 # 在 Sourcegraph 的第三天

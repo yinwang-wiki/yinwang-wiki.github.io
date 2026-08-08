@@ -1,0 +1,19 @@
+{% if page.content_type == "historical_archive" %}
+<aside class="archive-notice" aria-label="历史文章归档说明">
+  <strong class="archive-notice__title">历史文章归档</strong>
+  <p>本文作者为 {{ page.author | default: "王垠" }}，原始日期为 {{ page.original_date | date: "%Y-%m-%d" }}，归档主题为“{{ page.topic }}”。正文保留作者当时的表达，不代表本站观点，也未经本站事实核验。</p>
+  {% if page.content_warning %}
+  <div class="archive-warning">
+    <strong>阅读提示：</strong>{{ page.content_warning | join: "；" }}。
+  </div>
+  {% endif %}
+  <p class="archive-notice__meta">
+    {% if page.source_url %}
+      <a href="{{ page.source_url }}" rel="nofollow noopener">查看原始来源或网页存档</a>
+    {% else %}
+      原始页面地址尚未补录；正文中的部分链接、图片或附件可能已经缺失。
+    {% endif %}
+    <span>{{ page.rights }}</span>
+  </p>
+</aside>
+{% endif %}

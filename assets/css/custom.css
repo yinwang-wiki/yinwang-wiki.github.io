@@ -215,6 +215,37 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 #git-wiki-content p { margin: 0 0 1.25em; }
 #git-wiki-content strong, #git-wiki-content th { color: var(--wiki-heading); }
 #git-wiki-content img { height: auto; border-radius: 10px; }
+.archive-notice {
+  margin: 0 0 32px;
+  padding: 18px 20px;
+  border: 1px solid var(--wiki-border);
+  border-left: 4px solid var(--wiki-link);
+  border-radius: 10px;
+  background: var(--wiki-surface-muted);
+  color: var(--wiki-text);
+}
+.archive-notice__title {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 1.05rem;
+}
+#git-wiki-content .archive-notice p { margin-bottom: 10px; }
+#git-wiki-content .archive-notice p:last-child { margin-bottom: 0; }
+.archive-warning {
+  margin: 12px 0;
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--wiki-danger) 10%, transparent);
+  color: var(--wiki-text);
+}
+.archive-warning strong { color: var(--wiki-danger) !important; }
+.archive-notice__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  color: var(--wiki-muted);
+  font-size: 0.9rem;
+}
 #git-wiki-content .profile-gallery {
   display: flex;
   flex-wrap: wrap;

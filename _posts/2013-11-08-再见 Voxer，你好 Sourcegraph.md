@@ -1,6 +1,16 @@
 ---
-title: 再见 Voxer，你好 Sourcegraph
-date: 2013-11-08 00:00 +0800
+title: "再见 Voxer，你好 Sourcegraph"
+date: 2013-11-08 12:00:00 +0800
+original_date: 2013-11-08
+author: 王垠
+content_type: historical_archive
+topic: 职业与个人经历
+source_status: unavailable
+fact_checked: false
+rights: 原作者保留权利；本站未授予额外许可
+permalink: "/blog/posts/2013/11/08/再见-Voxer-你好-Sourcegraph.html"
+redirect_from:
+  - "/blog/posts/2013/11/07/再见-Voxer-你好-Sourcegraph.html"
 ---
 
 # 再见 Voxer，你好 Sourcegraph

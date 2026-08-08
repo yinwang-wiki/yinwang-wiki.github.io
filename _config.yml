@@ -4,6 +4,7 @@ remote_theme: Drassil/git-wiki-theme
 title: 王垠百科
 tagline: 文章与资料存档
 lang: zh-CN
+timezone: Asia/Shanghai
 url: "https://yinwang-wiki.github.io"
 baseurl: ""
 repository: yinwang-wiki/yinwang-wiki.github.io
@@ -129,7 +130,7 @@ plugins:
 
 inc_before_toc : 
 inc_after_toc : 
-inc_before_content : 
+inc_before_content : archive-notice.html
 inc_after_content : 
 inc_before_footer : 
 inc_after_footer : 

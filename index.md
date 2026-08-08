@@ -1,8 +1,12 @@
 # 王垠百科
 
+## 本站说明
+
+本站是社区维护的非官方网站，用于整理公开资料和保存历史文章，不由王垠本人维护，也不代表王垠本人的立场。归档正文保留作者当时的表达，本站未逐篇进行事实核验；原始内容的权利归原作者或相应权利人所有。详见[归档文章]({{ '/archive/' | relative_url }})和[编辑与归档政策]({{ '/EDITORIAL_POLICY.html' | relative_url }})。（最后复核：2026-08-08）
+
 ## 人物简介
 
-王垠：[四川大学](https://star.news.sohu.com/20050927/n240459496.shtml) 97 级本科毕业，保送到清华大学计算机系直博。曾在清华大学计算机系软件所就读，主要进行[集成电路布线算法](https://yinwang-wiki.github.io/blog/posts/2005/06/06/%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E.html)的研究。2004 年左右发表[《完全用 Linux 工作》](https://i.linuxtoy.org/docs/guide/ch06.html)和[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://blog.51cto.com/gjwrxz/6284783)的文章，在中国的计算机和 Linux 阵营引起极大轰动效应，成为水木清华 linuxapp 版和中国多个 Linux 社区的[偶像级人物](https://star.news.sohu.com/20050927/n240459496.shtml)。2005 年，王垠为第一作者的论文参加 IEEE/ACM Asia and South Pacific Design Automation Conference（[ASP-DAC 2005](https://www.aspdac.com/aspdac2005/eng/info/ASPDAC2005program.pdf)）国际学术会议并获得 [Best Paper Award](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)。这是自 ASP-DAC 会议举办以来大陆论文[首次获奖](https://star.news.sohu.com/20050927/n240459496.shtml)。
+据[搜狐 2005 年人物资料](https://star.news.sohu.com/20050927/n240459496.shtml)，王垠本科毕业于四川大学，后在清华大学计算机系软件所学习，主要研究[集成电路布线算法](https://yinwang-wiki.github.io/blog/posts/2005/06/06/%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E.html)。2004 年前后，他发表了[《完全用 Linux 工作》](https://i.linuxtoy.org/docs/guide/ch06.html)和[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://blog.51cto.com/gjwrxz/6284783)等文章。其参与撰写的论文 *The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction* 被列入 [ASP-DAC 2005 Best Paper Award 名单](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)；搜狐当时报道称，这是该会议首次由中国大陆论文获奖。
 
 ## 头像与照片
 
@@ -21,13 +25,15 @@
   </figure>
   <figure>
     <a href="https://weibo.com/u/6347862377" aria-label="访问王垠的微博主页">
-      <img src="{{ '/assets/images/profile/yin-wang-weibo-avatar.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠微博当前使用的头像">
+      <img src="{{ '/assets/images/profile/yin-wang-weibo-avatar.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠微博头像的站内存档">
     </a>
-    <figcaption>当前微博头像</figcaption>
+    <figcaption>微博头像存档</figcaption>
   </figure>
 </div>
 
-## 当前网站与社交账号
+这些图片来自公开页面的历史整理，具体来源和授权状态仍待逐项补录；如需补充署名、修正来源或移除，请[提交 issue](https://github.com/yinwang-wiki/yinwang-wiki.github.io/issues/new)。
+
+## 当前网站与社交账号（最后核验：2026-08-08）
 
 |名称|类型|说明|
 |:--|:--|:--|
@@ -61,11 +67,11 @@
 |[博客文章镜像](https://smallyunet.github.io/yinwang-blog/)|第三方镜像|王垠博客文章存档|
 |[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/)|第三方镜像|王垠微博内容存档|
 |[Substack 内容镜像](https://smallyunet.github.io/yinwang-substack/)|第三方镜像|王垠 Substack 内容存档|
-|[王垠百科文章归档]({{ '/assets/blog/' | relative_url }})|本站归档|本站收录的文章列表|
+|[王垠百科文章归档]({{ '/archive/' | relative_url }})|本站归档|本站收录的文章列表|
 |[“当然我在扯淡”订阅归档](https://yinwang-wiki.github.io/feeds/)|本站归档|博客订阅内容归档|
 |[YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)|GitHub 仓库|第三方内容备份项目|
 |[王垠博客备份](https://yinwang.jrtx.site/)|第三方镜像|自动备份 yinwang.org 博客文章|
-|[yinwangdl](https://github.com/jrtxio/yinwangdl)|GitHub 仓库|王垠博客自动备份项目|
+|[yinwangdl](https://github.com/turinglambdaai/yinwangdl)|GitHub 仓库|王垠博客自动备份项目|
 |[当然我在扯淡](https://henix.github.io/feeds/yinwang/)|第三方归档|博客文章订阅归档|
 |[王垠博客 PDF 备份](https://yinwang-wiki.github.io/yinwang-blog-backup/yinwang_blog_backup.pdf)|PDF 归档|博客文章离线备份|
 

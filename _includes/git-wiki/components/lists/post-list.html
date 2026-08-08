@@ -1,6 +1,6 @@
-<nav class="git-wiki-page-list" aria-label="最近文章">
+<nav class="git-wiki-page-list" aria-label="最近收录的归档文章">
   {% if site.inc_before_post_list %}{% include {{ site.inc_before_post_list }} %}{% endif %}
-  <span class="post-list-title">最近文章</span>
+  <span class="post-list-title">最近收录</span>
   <ul class="post-list">
     {% assign numPages = 0 %}
     {% assign items = site.posts | sort: 'date' | reverse %}
@@ -12,6 +12,6 @@
       {% endif %}
     {% endfor %}
   </ul>
-  <a class="read-all" href="{{ '/assets/blog/' | relative_url }}">查看全部文章</a>
+  <a class="read-all" href="{{ '/archive/' | relative_url }}">查看全部归档文章</a>
   {% if site.inc_after_post_list %}{% include {{ site.inc_after_post_list }} %}{% endif %}
 </nav>

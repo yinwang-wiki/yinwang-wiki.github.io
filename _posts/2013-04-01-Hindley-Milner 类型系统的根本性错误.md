@@ -1,6 +1,16 @@
 ---
-title: Hindley-Milner 类型系统的根本性错误
-date: 2013-04-01 00:00 +0800
+title: "Hindley-Milner 类型系统的根本性错误"
+date: 2013-04-01 12:00:00 +0800
+original_date: 2013-04-01
+author: 王垠
+content_type: historical_archive
+topic: 程序语言与静态分析
+source_status: unavailable
+fact_checked: false
+rights: 原作者保留权利；本站未授予额外许可
+permalink: "/blog/posts/2013/04/01/Hindley-Milner-类型系统的根本性错误.html"
+redirect_from:
+  - "/blog/posts/2013/03/31/Hindley-Milner-类型系统的根本性错误.html"
 ---
 
 # Hindley-Milner 类型系统的根本性错误

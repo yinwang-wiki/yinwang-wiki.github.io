@@ -1,6 +1,18 @@
 ---
-title: 对 Michelson-Morley 实验的怀疑
-date: 2021-07-21 00:00 +0800
+title: "对 Michelson-Morley 实验的怀疑"
+date: 2021-07-21 12:00:00 +0800
+original_date: 2021-07-21
+author: 王垠
+content_type: historical_archive
+topic: 科学观点与争议
+source_status: unavailable
+fact_checked: false
+rights: 原作者保留权利；本站未授予额外许可
+permalink: "/blog/posts/2021/07/21/对-Michelson-Morley-实验的怀疑.html"
+redirect_from:
+  - "/blog/posts/2021/07/20/对-Michelson-Morley-实验的怀疑.html"
+content_warning:
+  - "包含争议性科学主张，未经过本站事实核验"
 ---
 
 # 对 Michelson-Morley 实验的怀疑
