@@ -8,6 +8,12 @@
 
 据[搜狐 2005 年人物资料](https://star.news.sohu.com/20050927/n240459496.shtml)，王垠本科毕业于四川大学，后在清华大学计算机系软件所学习，主要研究[集成电路布线算法](https://yinwang-wiki.github.io/blog/posts/2005/06/06/%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E.html)。2004 年前后，他发表了[《完全用 Linux 工作》](https://i.linuxtoy.org/docs/guide/ch06.html)和[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://blog.51cto.com/gjwrxz/6284783)等文章。其参与撰写的论文 *The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction* 被列入 [ASP-DAC 2005 Best Paper Award 名单](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)；搜狐当时报道称，这是该会议首次由中国大陆论文获奖。
 
+### Cornell 经历
+
+Cornell 的 [Programming Languages Group（PL@Cornell）](https://pl.cs.cornell.edu/)现行 Alumni 名单将王垠列为“Yin Wang — 2008 → Intel”；Cornell 的 [CS 681（2007 年秋季）课程页面](https://www.cs.cornell.edu/courses/cs681/2007fa/info.htm)也将 `Yin Wang（yinwang@cs.cornell.edu）`列为助教。这些材料支持他曾在 Cornell 学习并参与相关研究群体，以及名单所记录的 2008 年离开后去向 Intel。
+
+这里的 Alumni 是研究组“前成员”分类，本身不等于获得 Cornell 博士学位。Cornell 计算机系另一个 [Computer Science Ph.D. Alumni](https://www.cs.cornell.edu/phd-computer-science/alumni) 目录目前将同名条目标为“Yin Wang — Dexter Kozen — 2008”，但本站未找到相应博士学位论文，而 PL@Cornell 所链接的公开职业履历标注为 Cornell 计算机科学硕士。由于这些来源的学位口径存在歧义，本站不据此认定其取得 Cornell 博士学位。
+
 ## 头像与照片
 
 <div class="profile-gallery">
