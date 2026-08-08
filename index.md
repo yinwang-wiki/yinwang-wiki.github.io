@@ -24,6 +24,18 @@ Cornell 的 [Programming Languages Group（PL@Cornell）](https://pl.cs.cornell.
 
 上述材料可以确认王垠在 2008 至 2012 年间以博士生身份在 Indiana University Bloomington 学习，并参与程序语言研究和课程教学，但“博士生”不等于“博士毕业”。其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将这段教育经历标为计算机科学硕士（2008—2012）；截至 2026 年 8 月 8 日，本站尚未找到可独立确认该硕士学位的 Indiana University 公开学位名录或学位论文记录，因此将“硕士”保留为本人公开履历中的自述，也不据现有材料认定其取得 Indiana University 博士学位。
 
+### Google 实习经历
+
+王垠当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)列出两段位于 Washington 州 Kirkland 的 Google Software Engineer Intern 经历，分别为 2009 年 5 月至 8 月和 2010 年 5 月至 8 月。其技术演讲 [*Static Analysis of Dynamically Typed Languages made Easy*](https://www.yinwang.org/resources/pysonar-slides.pdf)也明确称相关工作来自 2009、2010 两个夏季在 Google 的实习，并将项目背景写为 Google 内部的 Grok Project：对 Google 的 C++、Java、JavaScript、Python、Sawzall 和 Protobuf 等代码进行静态分析。演讲内容主要介绍面向 Python 的类型推导、跨过程分析、语义索引和错误检测。
+
+公开代码记录为这段自述提供了独立旁证。Jython 项目于 2010 年 1 月建立 [Issue 1541：new static analyzer from Google](https://bugs.jython.org/issue1541)，其中记录了一套由 Grok 负责人 Steve Yegge 提供的 [`google-indexer.zip`](https://bugs.jython.org/file756/google-indexer.zip)，包含 `org.python.indexer`、抽象语法树、类型系统、测试和代码浏览演示。代码包中的源文件带有“Copyright 2009, Google Inc.”声明，Jython 维护者测试后将该代码纳入项目。这一公开记录与王垠所述 2009 年实习的时间、Google Python indexer 和技术内容相互吻合，但代码包没有保留个人作者署名，因此不能单独证明其作者身份。
+
+Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems Colloquium 保存的 [*The Grok Project: Large-scale source code analysis at Google*](https://web.stanford.edu/class/ee380/Abstracts/Yegge.html) 演讲介绍将其描述为 Google 内部的大规模源代码分析项目，并将 Steve Yegge 标为 Google Staff Software Engineer 和 Grok team manager。另一份 [2012 年 Grok 演讲记录](https://bsumm.net/2012/08/11/steve-yegge-and-grok.html)称团队位于 Kirkland，已支持 C++、Java、Python、JavaScript 等语言，并曾将 Java 编写的 Python indexer 开放给 Jython 项目。这些资料能够独立确认王垠演讲所描述的项目、负责人、地点和技术背景。
+
+王垠在 2010 年发表的 [*PySonar: a type inferencer and indexer for Python*](https://yinwang0.wordpress.com/2010/09/12/pysonar/)介绍了该 Python 类型推导和语义索引工具；2013 年的 [*PySonar2 opensourced*](https://yinwang0.substack.com/p/pysonar2)则称 PySonar 最初在 Google 开发，并在与 Google 协商后将第二版发布到其 [GitHub 仓库](https://github.com/yinwang0/pysonar2)。后两项仍属于本人陈述，但与同期 Jython 代码记录及 Grok 项目资料一致。
+
+综合上述材料，本站将这段经历表述为：王垠于 2009 年和 2010 年夏季两次在 Google Kirkland 办公室担任软件工程实习生，参与 Grok 大规模代码分析项目，工作集中于 Python 静态分析、类型推导和语义索引。截至 2026 年 8 月 8 日，本站尚未找到直接署名王垠的 Google 官方员工页面、Google Research 作者页或 Google 代码提交记录，因此不据现有资料声称 Google 官方确认其为公开 indexer 的唯一作者。
+
 ## 头像与照片
 
 <div class="profile-gallery">
