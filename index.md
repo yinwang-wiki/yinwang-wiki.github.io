@@ -6,11 +6,25 @@
 
 ## 人物简介
 
-据[搜狐 2005 年人物资料](https://star.news.sohu.com/20050927/n240459496.shtml)，王垠本科毕业于四川大学，后在清华大学计算机系软件所学习，主要研究[集成电路布线算法](https://yinwang-wiki.github.io/blog/posts/2005/06/06/%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E.html)。2004 年前后，他发表了[《完全用 Linux 工作》](https://i.linuxtoy.org/docs/guide/ch06.html)和[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://blog.51cto.com/gjwrxz/6284783)等文章。其参与撰写的论文 *The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction* 被列入 [ASP-DAC 2005 Best Paper Award 名单](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)；搜狐当时报道称，这是该会议首次由中国大陆论文获奖。
+据[搜狐 2005 年人物资料](https://star.news.sohu.com/20050927/n240459496.shtml)，王垠本科毕业于四川大学，后在清华大学计算机系直博项目学习。2004 年前后，他发表了[《完全用 Linux 工作》](https://i.linuxtoy.org/docs/guide/ch06.html)和[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://blog.51cto.com/gjwrxz/6284783)等文章。其清华经历、集成电路布线研究与论文记录见下文。
+
+### 清华大学经历
+
+2005 年的多篇同期报道将王垠描述为四川大学 97 级本科毕业后保送至清华大学计算机系的直博或硕博连读学生，当时就读于计算机系软件所，主要研究集成电路布线算法。其中，[《新周刊》采访的新浪转载](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)称他在 2005 年处于博士第四年，并仍在清华等待办理退学手续；[搜狐人物资料](https://star.news.sohu.com/20050927/n240459496.shtml)和[《新京报》后续采访](https://news.sohu.com/20051024/n227285459.shtml)也记录了相同的院系、研究方向和申请退学背景。这些属于同期媒体报道，并非清华学籍证明，但与校内课程和论文记录相互吻合。
+
+目前找到的最早校方服务器材料来自 2001 年秋季。清华计算机系的 [70240183：Computational Geometry（Fall 2001）课程页面](https://dsa.cs.tsinghua.edu.cn/~deng/cg/70240183@2001fall/index.htm)链接到该课程的[项目档案](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/)，其中列出“王益、王垠、潘达：[*Voronoi 图的 Beachline 扫描算法的三维图形演示*](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/2001f/2001f-a.pdf)”。项目报告第一页保留三人署名，正文介绍了使用 C、MFC 和 OpenGL 演示 Fortune 扫描算法的实现、系统设计与测试结果。现存 PDF 的文件元数据显示它在 2014 年被重新生成，因此本站将其视为清华课程服务器保存的后期副本；项目所属的 2001 年秋季来自课程页面和项目目录的分类。
+
+2003 年以后出现了连续的集成电路布线研究记录。《半导体学报》2003 年刊登的[《非直角互连——布线技术发展的新趋势》](https://www.jos.ac.cn/en/article/id/0b362945-dd24-4bd3-8ec3-39b6c66ddf0c)将王垠与洪先龙、朱祺、经彤、杨旸、蔡懿慈共同列为作者；同年的 IEEE 会议论文 [*Rectilinear Steiner Minimal Tree among Obstacles*](https://doi.org/10.1109/ICASIC.2003.1277559)也列有王垠、洪先龙和经彤等人。两项记录与报道所述 IC CAD、布线和 Steiner tree 研究方向一致。
+
+2004 年 Springer LNCS 论文 [*An Efficient Low-Degree RMST Algorithm for VLSI/ULSI Physical Design*](https://doi.org/10.1007/978-3-540-30205-6_46)进一步把 Yin Wang、Xianlong Hong、Tong Jing 和 Yang Yang 的机构标为清华大学计算机科学与技术系，并列出王垠的清华学生邮箱 `wang-y01@mails.tsinghua.edu.cn`。2005 年论文 [*The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction*](https://doi.org/10.1145/1120725.1120731)保留相同的机构与邮箱信息；[ASP-DAC 2005 Best Papers 名单](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)将该论文列在 Best Paper Award 项下，并明确标注王垠、洪先龙、经彤和杨旸来自 Tsinghua University, Beijing。这些出版和会议记录构成其清华身份与研究活动最强的独立旁证。
+
+清华计算机系官方的[《与时俱进三十年的电子设计自动化研究室》](https://www.cs.tsinghua.edu.cn/info/1169/4062.htm)说明，EDA 研究室隶属于计算机系软件所，研究领域包括集成电路计算机辅助设计，并介绍洪先龙是该研究方向的创建者和负责人之一、经彤后来也是研究室成员。这可以解释王垠论文合作者、软件所和研究方向之间的联系，但现有清华公开页面没有直接写明其正式导师，本站不根据共同署名单独认定导师关系。
+
+王垠在归档文章[《清华梦的粉碎》]({{ '/blog/posts/2005/06/06/清华梦的粉碎.html' | relative_url }})中自述于 2005 年申请放弃清华博士学位。同期报道能够确认其公开提出退学申请，却不能单独证明教务手续最终生效的准确日期；其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将清华经历列为 2001 至 2006 年、研究内容为电子设计自动化算法，但没有列出清华学位。截至 2026 年 8 月 8 日，本站未找到王垠的清华博士学位论文、学位授予记录或校方退学决定，因此将其表述为“曾为清华大学计算机系直博生，后申请退学”，不称其为清华博士毕业生。
 
 ### Cornell 经历
 
-Cornell 的 [Programming Languages Group（PL@Cornell）](https://pl.cs.cornell.edu/)现行 Alumni 名单将王垠列为“Yin Wang — 2008 → Intel”；Cornell 的 [CS 681（2007 年秋季）课程页面](https://www.cs.cornell.edu/courses/cs681/2007fa/info.htm)也将 `Yin Wang（yinwang@cs.cornell.edu）`列为助教。这些材料支持他曾在 Cornell 学习并参与相关研究群体，以及名单所记录的 2008 年离开后去向 Intel。
+Cornell 的 [Programming Languages Group（PL@Cornell）](https://pl.cs.cornell.edu/)现行 Alumni 名单将王垠列为“Yin Wang — 2008 → Intel”；Cornell 的 [CS 681（2007 年秋季）课程页面](https://www.cs.cornell.edu/courses/cs681/2007fa/info.htm)也将 `Yin Wang（yinwang@cs.cornell.edu）`列为助教。这些材料支持他曾在 Cornell 学习并参与相关研究群体。不过，“2008 → Intel”的具体含义目前并不清楚：其公开履历将 2008 至 2012 年列为 Indiana University 学习经历，将 Intel 任职时间列为 2018 至 2020 年。本站因此保留 Cornell 名单的原文，不将其直接解释为“2008 年入职 Intel”。
 
 这里的 Alumni 是研究组“前成员”分类，本身不等于获得 Cornell 博士学位。Cornell 计算机系另一个 [Computer Science Ph.D. Alumni](https://www.cs.cornell.edu/phd-computer-science/alumni) 目录目前将同名条目标为“Yin Wang — Dexter Kozen — 2008”，但本站未找到相应博士学位论文，而 PL@Cornell 所链接的公开职业履历标注为 Cornell 计算机科学硕士。由于这些来源的学位口径存在歧义，本站不据此认定其取得 Cornell 博士学位。
 
@@ -35,6 +49,42 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 王垠在 2010 年发表的 [*PySonar: a type inferencer and indexer for Python*](https://yinwang0.wordpress.com/2010/09/12/pysonar/)介绍了该 Python 类型推导和语义索引工具；2013 年的 [*PySonar2 opensourced*](https://yinwang0.substack.com/p/pysonar2)则称 PySonar 最初在 Google 开发，并在与 Google 协商后将第二版发布到其 [GitHub 仓库](https://github.com/yinwang0/pysonar2)。后两项仍属于本人陈述，但与同期 Jython 代码记录及 Grok 项目资料一致。
 
 综合上述材料，本站将这段经历表述为：王垠于 2009 年和 2010 年夏季两次在 Google Kirkland 办公室担任软件工程实习生，参与 Grok 大规模代码分析项目，工作集中于 Python 静态分析、类型推导和语义索引。截至 2026 年 8 月 8 日，本站尚未找到直接署名王垠的 Google 官方员工页面、Google Research 作者页或 Google 代码提交记录，因此不据现有资料声称 Google 官方确认其为公开 indexer 的唯一作者。
+
+### 后续职业经历
+
+王垠当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)列出 Google 实习之后的多段公司经历；其归档文章还补充了一段未列入该履历的 Voxer 经历。按公开资料所示时间整理如下：
+
+|时间|公司与公开职位|地点|公开资料与证据边界|
+|:--|:--|:--|:--|
+|2012 年 12 月—2013 年 6 月|Coverity，Static Analysis Engineer|San Francisco|LinkedIn 履历及本人文章可相互印证；尚未找到 Coverity 或后来收购方 Synopsys 直接点名的公开材料。|
+|约 2013 年夏季—11 月|Voxer，Data Engineer|San Francisco|本人文章称在 Voxer 工作两个多月；该段未列入当前 LinkedIn 履历，尚未找到 Voxer 公司侧材料。|
+|2013 年 11 月—2014 年 5 月|Sourcegraph，Lead Researcher|San Francisco|除 LinkedIn 和本人文章外，Sourcegraph 官方 GitHub 组织保留其账号的同期提交。|
+|2014 年 10 月—2016 年 7 月|Shape Security，Senior Software Engineer|Mountain View|Shape Security 官方 GitHub 组织保留其账号的同期提交和 pull request。|
+|2016 年 7 月—2017 年 4 月|Microsoft，Senior Software Engineer|Sunnyvale|LinkedIn 履历和本人文章可相互印证；尚未找到 Microsoft 官方员工页、技术博客、专利或代码记录。|
+|2018 年 7 月—2020 年 4 月|Intel，Staff Software Engineer|Shanghai|Intel 官方 GitHub 组织保留其账号在 2019 年的同期提交。|
+|2023 年 1 月—至今|F5，Principal Engineer|London；2024 年 6 月起为 Tokyo|当前 LinkedIn 履历将 F5 列为现职；尚未找到 F5 官网直接点名的材料。第三方 The Org 页面有相同记录，但明确标为“Unverified”。|
+
+#### Coverity、Voxer 与 Sourcegraph
+
+王垠在归档文章[《半年来的工作感受》]({{ '/blog/posts/2013/06/17/半年来的工作感受.html' | relative_url }})中称自己在 Coverity 从事静态分析软件开发；两天后的[《我离开了 Coverity》]({{ '/blog/posts/2013/06/19/我离开了Coverity.html' | relative_url }})明确写到已经辞职。这与 LinkedIn 所列的 2012 年 12 月至 2013 年 6 月任期吻合，但两篇文章均属于本人陈述，不能替代公司记录。
+
+其后，[《再见 Voxer，你好 Sourcegraph》]({{ '/blog/posts/2013/11/08/再见-Voxer-你好-Sourcegraph.html' | relative_url }})称他经 Coverity 创始人介绍加入 Voxer，作为该公司的第一个 Data Engineer 工作了两个多月，随后决定加入 Sourcegraph；[《在 Sourcegraph 的第三天》]({{ '/blog/posts/2013/11/13/在-Sourcegraph-的第三天.html' | relative_url }})则称已经正式加入 Sourcegraph，并开始把 PySonar2 接入其系统。
+
+Sourcegraph 公司侧留有同期技术记录：2014 年 2 至 3 月，GitHub 账号 [`yinwang0`](https://github.com/yinwang0)以 `Yin Wang <yinwang0@gmail.com>` 身份在 Sourcegraph 官方组织的 [`annotate`](https://github.com/sourcegraph/annotate/commit/476cb837e50eaffead84b1e756dd73f68d7686e3)、[`vcsserver`](https://github.com/sourcegraph/vcsserver/commit/6e9b9afca4292ec50c671e13b7ec5631f4758fcf)、[`syntaxhighlight`](https://github.com/sourcegraph/syntaxhighlight/commit/62248d05ecfbfc9c42d2fafe93e9bd2e54c5a27b)和 [`go-vcs`](https://github.com/sourcegraph/go-vcs/commit/f8ff6a70dc4b9b186e9ba4813174b10285324014)仓库中留下提交。这些记录能够有力佐证其在所述时期参与 Sourcegraph 工程工作，但不能单独证明劳动关系或 `Lead Researcher` 职级。
+
+#### Shape Security 与 Microsoft
+
+Shape Security 官方 GitHub 组织保存了与公开任期吻合的记录：2015 年 2 月，`yinwang0` 在 [`shift-java`](https://github.com/shapesecurity/shift-java/commit/563f47dff86f1506acd9e0d7cc2e8da8685d2730)仓库合并代码；同年 5 月又以该账号发起了修复 [pull request #57](https://github.com/shapesecurity/shift-java/pull/57)。这些公司官方组织内的记录可以佐证其参与工程开发，但仍不能单独确认 `Senior Software Engineer` 职级。
+
+对于 Microsoft 经历，王垠在 2017 年的[《更新》]({{ '/blog/posts/2017/04/06/更新.html' | relative_url }})中称自己所在团队的产品是企业级存储设备 StorSimple；随后发表的[《微软的秘密离职协议》]({{ '/blog/posts/2017/05/10/微软的秘密离职协议.html' | relative_url }})描述了离职过程。文章时间和内容与 LinkedIn 所列 2016 年 7 月至 2017 年 4 月的任期基本一致，但截至 2026 年 8 月 8 日，本站未找到能够独立确认其职位的 Microsoft 公司侧公开材料；搜索中出现的多位同名 Microsoft 员工和论文作者亦未被纳入。
+
+#### Intel 与 F5
+
+Intel 官方 GitHub 组织提供了较强的同期旁证。2019 年 3 月，`yinwang0` 以 `Yin Wang <yinwang0@gmail.com>` 身份在 Intel 的 [`Deep-learning-math-kernel-research`](https://github.com/intel/Deep-learning-math-kernel-research/commit/a35e186af265df8a6247af42953590584b1ec276)仓库提交代码，另有包含 `prv-yin-test` 分支的[合并提交](https://github.com/intel/Deep-learning-math-kernel-research/commit/a1c2befe81debb11d1cffafc779109a438f6b1b6)。王垠在[《2020 新年寄语》]({{ '/blog/posts/2019/12/31/2020新年寄语.html' | relative_url }})中也称自己即将离开 Intel。两类材料与 LinkedIn 所列 2018 年 7 月至 2020 年 4 月任期相符；GitHub 记录能够佐证其参与 Intel 项目，但不能单独确认 `Staff Software Engineer` 职级。
+
+当前 LinkedIn 页面将王垠列为 F5 Principal Engineer，显示其于 2023 年 1 月在 London 开始该职位，2024 年 6 月转至 Tokyo 并延续至今。第三方组织名录 [The Org](https://theorg.com/org/f5-networks/org-chart/yin-wang)也将其列为位于 Tokyo 的 F5 Principal Engineer，并概述其 Microsoft、Shape Security 和 Intel 经历；不过该页面明确标注为“Unverified”，并非 F5 官方确认。因此，本站将 F5 任职表述为本人当前公开职业履历所示的现职，不将 The Org 作为独立的公司证明。
+
+综合来看，Sourcegraph、Shape Security 和 Intel 的官方 GitHub 组织记录构成公司侧技术旁证；Coverity、Voxer、Microsoft 和 F5 暂无同等级的公司官方点名资料。2017 年 4 月至 2018 年 7 月、2020 年 4 月至 2023 年 1 月之间，现有公开履历没有列出其他公司任职，本站不据此推测其去向。
 
 ## 头像与照片
 
@@ -108,6 +158,10 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 |名称|类型|说明|
 |:--|:--|:--|
 |[Register Allocation By Model Transformer Semantics](https://arxiv.org/abs/1202.5539)|学术论文|合作者：R. Kent Dybvig|
+|[Voronoi 图的 Beachline 扫描算法的三维图形演示](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/2001f/2001f-a.pdf)|课程项目|清华计算机系 2001 年秋季 Computational Geometry 项目档案，署名王益、王垠、潘达|
+|[非直角互连——布线技术发展的新趋势](https://www.jos.ac.cn/en/article/id/0b362945-dd24-4bd3-8ec3-39b6c66ddf0c)|学术论文|2003 年《半导体学报》，IC CAD 与布线研究|
+|[Rectilinear Steiner Minimal Tree among Obstacles](https://doi.org/10.1109/ICASIC.2003.1277559)|学术论文|2003 年 IEEE 会议论文|
+|[An Efficient Low-Degree RMST Algorithm for VLSI/ULSI Physical Design](https://doi.org/10.1007/978-3-540-30205-6_46)|学术论文|2004 年 Springer LNCS 论文，列有清华计算机系机构与校内邮箱|
 |[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://doi.org/10.1145/1120725.1120731)|学术论文|ASP-DAC 2005 论文|
 |[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://dblp.org/rec/conf/aspdac/WangHJYHY05)|DBLP 记录|论文书目记录|
 |[ASP-DAC 2005 Best Papers](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)|获奖资料|ASP-DAC 2005 获奖论文名单|
