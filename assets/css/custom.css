@@ -41,7 +41,8 @@ html {
 body {
   margin: 0;
   padding: 32px;
-  overflow-x: hidden;
+  /* Clip horizontal overflow without creating a scroll container for sticky sidebars. */
+  overflow-x: clip;
   background: var(--wiki-bg) !important;
   color: var(--wiki-text);
   font: 16px/1.75 "Noto Sans CJK SC", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
@@ -82,6 +83,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
   top: 32px;
   float: none;
   width: 260px !important;
+  height: auto;
+  align-self: start;
   max-height: calc(100vh - 64px);
   padding: 0 14px 32px 0 !important;
   overflow: auto;
@@ -325,6 +328,9 @@ footer p { margin: 4px 0; }
   .wiki-page-utility {
     position: sticky;
     top: 32px;
+    max-height: calc(100vh - 64px);
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
     grid-column: 2;
     grid-row: 1;
     display: flex;
