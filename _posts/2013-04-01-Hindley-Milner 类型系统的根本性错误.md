@@ -5,7 +5,10 @@ original_date: 2013-04-01
 author: 王垠
 content_type: historical_archive
 topic: 程序语言与静态分析
-source_status: unavailable
+source_status: documented
+source_kind: mirror
+source_url: "https://smallyunet.github.io/yinwang-blog/blog-cn_2013_04_01_hindley-milner_20240602.html"
+source_checked: 2026-10-22
 fact_checked: false
 rights: 原作者保留权利；本站未授予额外许可
 permalink: "/blog/posts/2013/04/01/Hindley-Milner-类型系统的根本性错误.html"

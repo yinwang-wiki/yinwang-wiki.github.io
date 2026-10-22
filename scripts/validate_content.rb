@@ -2,6 +2,7 @@
 
 require "date"
 require "yaml"
+require "uri"
 
 REQUIRED_FIELDS = %w[
   title date original_date author content_type topic source_status
@@ -55,6 +56,21 @@ posts.each do |path|
   errors << "#{relative_path}: invalid source_status #{source_status.inspect}" unless ALLOWED_SOURCE_STATUSES.include?(source_status)
   if source_status == "documented" && data["source_url"].to_s.empty?
     errors << "#{relative_path}: documented source requires source_url"
+  end
+  if source_status == "documented"
+    begin
+      source_uri = URI.parse(data["source_url"].to_s)
+      errors << "#{relative_path}: source_url must be an HTTP(S) URL" unless %w[http https].include?(source_uri.scheme) && source_uri.host
+    rescue URI::InvalidURIError
+      errors << "#{relative_path}: invalid source_url"
+    end
+  end
+  if data["source_kind"] == "mirror"
+    errors << "#{relative_path}: mirror requires documented source" unless source_status == "documented"
+    errors << "#{relative_path}: mirror requires source_checked" unless data["source_checked"].is_a?(Date)
+  end
+  if data["date_uncertain"] && data["source_note"].to_s.empty?
+    errors << "#{relative_path}: uncertain date requires source_note"
   end
 
   expected_path = original_date.tr("-", "/")

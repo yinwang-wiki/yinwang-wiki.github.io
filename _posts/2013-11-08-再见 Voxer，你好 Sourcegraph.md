@@ -5,7 +5,10 @@ original_date: 2013-11-08
 author: 王垠
 content_type: historical_archive
 topic: 职业与个人经历
-source_status: unavailable
+source_status: documented
+source_kind: mirror
+source_url: "https://smallyunet.github.io/yinwang-blog/blog-cn_2013_11_08_voxer-sg_20150118.html"
+source_checked: 2026-10-22
 fact_checked: false
 rights: 原作者保留权利；本站未授予额外许可
 permalink: "/blog/posts/2013/11/08/再见-Voxer-你好-Sourcegraph.html"

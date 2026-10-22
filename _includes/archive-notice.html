@@ -1,7 +1,7 @@
 {% if page.content_type == "historical_archive" %}
 <aside class="archive-notice" aria-label="历史文章归档说明">
   <strong class="archive-notice__title">历史文章归档</strong>
-  <p>本文作者为 {{ page.author | default: "王垠" }}，原始日期为 {{ page.original_date | date: "%Y-%m-%d" }}，归档主题为“{{ page.topic }}”。正文保留作者当时的表达，不代表本站观点，也未经本站事实核验。</p>
+  <p>本文作者为 {{ page.author | default: "王垠" }}，{% if page.date_uncertain %}本站旧归档日期为 {{ page.original_date | date: "%Y-%m-%d" }}（原始日期待考）{% else %}原始日期为 {{ page.original_date | date: "%Y-%m-%d" }}{% endif %}，归档主题为“{{ page.topic }}”。正文保留作者当时的表达，不代表本站观点，也未经本站事实核验。</p>
   {% if page.content_warning %}
   <div class="archive-warning">
     <strong>阅读提示：</strong>{{ page.content_warning | join: "；" }}。
@@ -9,11 +9,14 @@
   {% endif %}
   <p class="archive-notice__meta">
     {% if page.source_url %}
-      <a href="{{ page.source_url }}" rel="nofollow noopener">查看原始来源或网页存档</a>
+      <a href="{{ page.source_url }}" rel="nofollow noopener">{% if page.source_kind == "mirror" %}查看第三方全文存档{% else %}查看原始来源或网页存档{% endif %}</a>
+      {% if page.source_checked %}<span>来源链接核对：{{ page.source_checked | date: "%Y-%m-%d" }}。</span>{% endif %}
     {% else %}
       原始页面地址尚未补录；正文中的部分链接、图片或附件可能已经缺失。
     {% endif %}
     <span>{{ page.rights }}</span>
   </p>
+  {% if page.source_kind == "mirror" %}<p>该链接由第三方保存，不是作者当前官网；存档可能含后续修订，不能据此认定本站正文与某日版本完全一致。</p>{% endif %}
+  {% if page.source_note %}<p>{{ page.source_note | escape }}</p>{% endif %}
 </aside>
 {% endif %}
