@@ -92,6 +92,16 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 2025 年 5 月发布的[视频班课程介绍](https://www.yinwang.org/posts/cs-video-course)将第五期课程录像用于新的教学形式：学生自行安排观看时间，同时接受一对一微信答疑和练习辅导（[课程介绍存档](https://github.com/turinglambdaai/yinwang-archive/blob/master/posts/cs-video-course.md)）。视频班延续函数、递归、数据结构、解释器及命令式编程等基础内容，并提供 Python、Java、Rust 或 C++ 的选修内容。到 2026 年 10 月 21 日，他仍在[个人网站手记](https://www.yinwang.org/notes#m-2026-10-7ec7)中发布视频班继续招生和改进教学的消息。
 
+### 对人工智能的看法
+
+王垠在 2017 年的[《人工智能的局限性》存档](https://yinwang.jrtx.site/posts/ai/)中回忆，他在清华大学图书馆读到 Peter Norvig 的《Paradigms of Artificial Intelligence Programming》，并动手实现书中的经典算法。清华期间，他还在水木清华 BBS 上做过一个账号名为 `helloooo` 的聊天机器人，用类似 ELIZA 的正则表达式匹配和预设回复来模拟对话。
+
+2016 年，王垠在[《我看自动驾驶技术》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_2016_02_12_driverless-car_20160215.html)中质疑当时的机器视觉和常识判断能否应付复杂路况。2017 年谈到自动编程时，他提出，少量示例往往不足以让机器推断人的完整意图，明确表达需求本身就是编程的一部分。2019 年，他又在[《自动驾驶车的责任和风险分析》存档](https://yinwang.jrtx.site/posts/autopilot-responsibility/)中讨论了事故风险、驾驶员接管和责任归属。
+
+2025 年 7 月 31 日，他在[《再看〈人工智能的局限性〉》微博存档](https://smallyunet.github.io/yinwang-weibo/#post-5194536520780880)中承认，早期文章低估了 AI 的语言理解能力。他认为编程助手能减轻大量琐碎工作，同时强调需求表达、开发顺序和代码简化仍依赖使用者的经验。9 月，他[自述已将自制的 AI 编程助手投入日常使用](https://smallyunet.github.io/yinwang-weibo/#post-5211247765094681)，并再次[强调明确意图和设计方案的重要性](https://smallyunet.github.io/yinwang-weibo/#post-5211498026108984)。同年，他在[《提高基础班的学费》]({{ '/blog/posts/2025/08/14/提高基础班的学费.html' | relative_url }})中把这一判断与教学联系起来，认为计算机科学基础能帮助人更有效地使用 AI 工具。
+
+2026 年 6 月，他在[《网球和AI》微博存档](https://smallyunet.github.io/yinwang-weibo/#post-5311493000135879)中再次回顾早期文章，承认低估了 AI 的实际可用性，同时说自己尝试用 AI 研究网球技术时，得到的回答未能推进他关心的问题。7 月 26 日，他在[另一则微博的存档](https://smallyunet.github.io/yinwang-weibo/#post-5324986052772699)中写道，用 AI 修改网站和自用应用时，工具能处理更多繁琐工作，也发现了一些人难以察觉的问题。他认为这些进步能让研究者把更多时间放在设计和思考上，并指出自己的指导仍对结果起了很大作用。
+
 ### 近期写作与发布渠道
 
 2026 年 9 月 24 日，王垠在[《停用微博》](https://weibo.com/6347862377/RjBmiptFp)中宣布停止在微博发布内容，改用个人网站的手记栏目（[第三方存档](https://smallyunet.github.io/yinwang-weibo/#post-5346718426072243)）。截至 2026 年 10 月 22 日，[个人网站手记](https://www.yinwang.org/notes)可见更新至 10 月 21 日的内容，包括计算机科学课程与日常记录。因此，微博应作为历史发布渠道查阅，近期动态优先参阅个人网站。
