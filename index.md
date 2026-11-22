@@ -98,6 +98,36 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 ## 相关事件与观点
 
+本节按各专题最早涉及的公开文章或事件排序。
+
+### 《完全用 Linux 工作》引发的论争
+
+2004 年前后，王垠在[《完全用 GNU/Linux 工作》存档](https://i.linuxtoy.org/docs/guide/ch06.html)中介绍自己的使用经验，推崇 GNU/Linux，并批评 Windows。这篇文章被多个网站转载，引来支持和反对。他随后发表[《写给支持和反对〈完全用 Linux 工作〉的人们》](https://github.com/ianiun/YinWang/blob/master/写给支持和反对《完全用Linux工作》的人们.md)，回顾文章传播的经过，也承认自己原先的措辞偏激。
+
+### 清华退学公开信
+
+2005 年 9 月，[《清华梦的粉碎》]({{ '/blog/posts/2005/06/06/清华梦的粉碎.html' | relative_url }})已在网上流传。王垠在信中公开提出退学，并以自己的求学经历批评应试教育和以发表论文为导向的博士培养。围绕退学决定和培养制度的讨论见[《新周刊》同期专访](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)及[《南方都市报》同期评论](https://news.sina.com.cn/c/2005-09-29/10397897525.shtml)。原文首次发布日期和教务手续生效日期仍待核实，其学业和研究记录见[清华大学经历](#清华大学经历)。
+
+### 公开批评 Google 实习经历
+
+2012 年 8 月，王垠发表[《我和 Google 的故事》](https://groups.google.com/g/mindex/c/gUKBm_AdLFM)，回顾 2009 年和 2010 年两次在 Google 的实习，谈到 Grok 项目中的 Python 静态分析工作，并批评团队管理和技术决策。同期转载保留了技术社区的讨论，具体工作及可交叉核对的记录见[Google 实习经历](#google-实习经历)。
+
+### 《对博士学位说永别》
+
+2012 年 9 月，转载存档已出现王垠的[《对博士学位说永别》](https://www.ea163.com/archives/3081)。他在文中宣布再次离开博士培养，并批评学位制度、论文指标和研究生劳动安排。这篇文章延续了他从清华退学公开信开始对博士培养制度的批评。其当时的学习和研究记录见[Indiana University 经历](#indiana-university-经历)。
+
+### 对人工智能的看法
+
+2016 年，王垠在[《我看自动驾驶技术》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_2016_02_12_driverless-car_20160215.html)中质疑当时的机器视觉和常识判断能否应付复杂路况。
+
+王垠在 2017 年的[《人工智能的局限性》存档](https://yinwang.jrtx.site/posts/ai/)中回忆，他在清华大学图书馆读到 Peter Norvig 的《Paradigms of Artificial Intelligence Programming》，并动手实现书中的经典算法。清华期间，他还在水木清华 BBS 上做过一个账号名为 `helloooo` 的聊天机器人，用类似 ELIZA 的正则表达式匹配和预设回复来模拟对话。
+
+2017 年谈到自动编程时，他提出，少量示例往往不足以让机器推断人的完整意图，明确表达需求本身就是编程的一部分。2019 年，他又在[《自动驾驶车的责任和风险分析》存档](https://yinwang.jrtx.site/posts/autopilot-responsibility/)中讨论了事故风险、驾驶员接管和责任归属。
+
+2025 年 7 月 31 日，他在[《再看〈人工智能的局限性〉》微博存档](https://smallyunet.github.io/yinwang-weibo/#post-5194536520780880)中承认，早期文章低估了 AI 的语言理解能力。他认为编程助手能减轻大量琐碎工作，同时强调需求表达、开发顺序和代码简化仍依赖使用者的经验。9 月，他[自述已将自制的 AI 编程助手投入日常使用](https://smallyunet.github.io/yinwang-weibo/#post-5211247765094681)，并再次[强调明确意图和设计方案的重要性](https://smallyunet.github.io/yinwang-weibo/#post-5211498026108984)。同年，他在[《提高基础班的学费》]({{ '/blog/posts/2025/08/14/提高基础班的学费.html' | relative_url }})中把这一判断与教学联系起来，认为计算机科学基础能帮助人更有效地使用 AI 工具。
+
+2026 年 6 月，他在[《网球和AI》微博存档](https://smallyunet.github.io/yinwang-weibo/#post-5311493000135879)中再次回顾早期文章，承认低估了 AI 的实际可用性，同时说自己尝试用 AI 研究网球技术时，得到的回答未能推进他关心的问题。7 月 26 日，他在[另一则微博的存档](https://smallyunet.github.io/yinwang-weibo/#post-5324986052772699)中写道，用 AI 修改网站和自用应用时，工具能处理更多繁琐工作，也发现了一些人难以察觉的问题。他认为这些进步能让研究者把更多时间放在设计和思考上，并指出自己的指导仍对结果起了很大作用。
+
 ### 微软的个人罢工与「封杀」争议
 
 2017 年 4 月，王垠发表《一个人的罢工》，称因不满职级、薪酬和加班安排，已停止为微软工作。随后，他在 5 月 10 日发表的[《微软的秘密离职协议》]({{ '/blog/posts/2017/05/10/微软的秘密离职协议.html' | relative_url }})中写道，双方就离职时是否退还签约奖金展开谈判。按他的说法，微软提出的协议包含限制他今后受雇于微软及部分关联公司的条款，他拒绝签署这份协议。
@@ -112,15 +142,11 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 赵海平在知乎回应称，面试主要考察王垠简历中的具体工作，博客部分只讨论了 P vs NP 一篇，面试结果由团队决定。他也承认，询问履历空档时开的玩笑不合适。双方的公开说法见[2019 年 12 月的同期报道](https://www.ithome.com/0/464/417.htm)。
 
-### 对人工智能的看法
+### 关于相对论与阿波罗登月的争议文章
 
-王垠在 2017 年的[《人工智能的局限性》存档](https://yinwang.jrtx.site/posts/ai/)中回忆，他在清华大学图书馆读到 Peter Norvig 的《Paradigms of Artificial Intelligence Programming》，并动手实现书中的经典算法。清华期间，他还在水木清华 BBS 上做过一个账号名为 `helloooo` 的聊天机器人，用类似 ELIZA 的正则表达式匹配和预设回复来模拟对话。
+2021 年 7 月 12 日，王垠在[《对爱因斯坦和相对论的怀疑》]({{ '/blog/posts/2021/07/12/对爱因斯坦和相对论的怀疑.html' | relative_url }})中质疑相对论的实验证据和实际用途。作为对照，发表于《Science》的[光学原子钟实验](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=905055)报告了相对运动和高度差引起的时间膨胀效应。
 
-2016 年，王垠在[《我看自动驾驶技术》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_2016_02_12_driverless-car_20160215.html)中质疑当时的机器视觉和常识判断能否应付复杂路况。2017 年谈到自动编程时，他提出，少量示例往往不足以让机器推断人的完整意图，明确表达需求本身就是编程的一部分。2019 年，他又在[《自动驾驶车的责任和风险分析》存档](https://yinwang.jrtx.site/posts/autopilot-responsibility/)中讨论了事故风险、驾驶员接管和责任归属。
-
-2025 年 7 月 31 日，他在[《再看〈人工智能的局限性〉》微博存档](https://smallyunet.github.io/yinwang-weibo/#post-5194536520780880)中承认，早期文章低估了 AI 的语言理解能力。他认为编程助手能减轻大量琐碎工作，同时强调需求表达、开发顺序和代码简化仍依赖使用者的经验。9 月，他[自述已将自制的 AI 编程助手投入日常使用](https://smallyunet.github.io/yinwang-weibo/#post-5211247765094681)，并再次[强调明确意图和设计方案的重要性](https://smallyunet.github.io/yinwang-weibo/#post-5211498026108984)。同年，他在[《提高基础班的学费》]({{ '/blog/posts/2025/08/14/提高基础班的学费.html' | relative_url }})中把这一判断与教学联系起来，认为计算机科学基础能帮助人更有效地使用 AI 工具。
-
-2026 年 6 月，他在[《网球和AI》微博存档](https://smallyunet.github.io/yinwang-weibo/#post-5311493000135879)中再次回顾早期文章，承认低估了 AI 的实际可用性，同时说自己尝试用 AI 研究网球技术时，得到的回答未能推进他关心的问题。7 月 26 日，他在[另一则微博的存档](https://smallyunet.github.io/yinwang-weibo/#post-5324986052772699)中写道，用 AI 修改网站和自用应用时，工具能处理更多繁琐工作，也发现了一些人难以察觉的问题。他认为这些进步能让研究者把更多时间放在设计和思考上，并指出自己的指导仍对结果起了很大作用。
+同年 7 月 24 日，王垠发表[《阿波罗登月是骗局》]({{ '/blog/posts/2021/07/24/阿波罗登月是骗局.html' | relative_url }})，主张阿波罗载人登月造假。NASA 公布了[六次着陆的位置与月球勘测轨道飞行器的影像资料](https://science.nasa.gov/resource/apollo-landing-sites-with-moon-phases/)。
 
 ## 头像与照片
 
