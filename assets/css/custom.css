@@ -267,6 +267,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
   height: 112px;
   border-radius: 10px;
 }
+#git-wiki-content .profile-gallery a.external-link {
+  padding-right: 0;
+  background-image: none;
+}
 #git-wiki-content .profile-gallery img {
   display: block;
   width: 112px;
@@ -278,6 +282,9 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
   font-size: 13px;
   line-height: 1.45;
   text-align: center;
+}
+#git-wiki-content .profile-gallery time {
+  white-space: nowrap;
 }
 
 #git-wiki-content table {

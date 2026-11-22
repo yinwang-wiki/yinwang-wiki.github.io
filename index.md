@@ -126,7 +126,9 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 <div class="profile-gallery">
   <figure>
-    <img src="{{ '/assets/images/profile/yin-wang-pixel-avatar.png' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的绿色点阵风格头像">
+    <a href="https://github.com/yinwang0" aria-label="查看王垠的 GitHub 头像">
+      <img src="{{ '/assets/images/profile/yin-wang-pixel-avatar.png' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的绿色点阵风格头像">
+    </a>
     <figcaption>绿色点阵头像</figcaption>
   </figure>
   <figure>
@@ -138,20 +140,26 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
     <figcaption>个人照片</figcaption>
   </figure>
   <figure>
+    <a href="https://news.sina.com.cn/s/2005-10-22/11597236223s.shtml" aria-label="查看南方都市报 2005 年报道及配图">
+      <img src="{{ '/assets/images/profile/yin-wang-press-portrait-2005.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="2005 年南方都市报报道所配的王垠黑白肖像">
+    </a>
+    <figcaption>2005 年报道配图</figcaption>
+  </figure>
+  <figure>
     <a href="https://weibo.com/u/6347862377" aria-label="访问王垠的微博主页">
       <img src="{{ '/assets/images/profile/yin-wang-weibo-avatar.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠微博头像的站内存档">
     </a>
     <figcaption>微博头像存档</figcaption>
   </figure>
   <figure>
-    <a href="https://www.sina.cn/media/6347862377" aria-label="查看王垠当前微博头像的来源页面">
-      <img src="{{ '/assets/images/profile/yin-wang-weibo-avatar-2026-10-22.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠于 2026 年 10 月 22 日使用的微博头像：黑红色动漫眼睛图案">
+    <a href="https://www.sina.cn/media/6347862377" aria-label="查看王垠微博头像的来源页面">
+      <img src="{{ '/assets/images/profile/yin-wang-weibo-avatar-2026-10-22.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="2026 年 10 月 22 日收录的王垠微博头像：黑红色动漫眼睛图案">
     </a>
-    <figcaption>微博头像（2026-10-22）</figcaption>
+    <figcaption>微博 <time datetime="2026-10-22">2026-10-22</time></figcaption>
   </figure>
 </div>
 
-这些图片来自公开页面的历史整理，具体来源和授权状态仍待逐项补录；如需补充署名、修正来源或移除，请[提交 issue](https://github.com/yinwang-wiki/yinwang-wiki.github.io/issues/new)。
+2005 年黑白肖像见《南方都市报》同期报道的新浪转载，另有一张照片见[《新京报》同期采访](https://news.sina.com.cn/c/2005-10-24/10037246084s.shtml)。图片授权状态仍待逐项补录，如需补充署名、修正来源或移除，请[提交 issue](https://github.com/yinwang-wiki/yinwang-wiki.github.io/issues/new)。
 
 ## 网站与社交账号
 
