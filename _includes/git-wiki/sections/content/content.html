@@ -5,16 +5,18 @@
       {% include git-wiki/sections/tools/tools.html %}
     </aside>
 
-    {% if site.inc_before_content %}
-    {% include {{ site.inc_before_content }} %}
-    {% endif %}
+    <div class="wiki-article">
+      {% if site.inc_before_content %}
+      {% include {{ site.inc_before_content }} %}
+      {% endif %}
 
-    <main id="git-wiki-content" tabindex="-1">
-      {{ content }}
-    </main>
+      <main id="git-wiki-content" tabindex="-1">
+        {{ content }}
+      </main>
 
-    {% if site.inc_after_content %}
-    {% include {{ site.inc_after_content }} %}
-    {% endif %}
+      {% if site.inc_after_content %}
+      {% include {{ site.inc_after_content }} %}
+      {% endif %}
+    </div>
   </section>
 </div>

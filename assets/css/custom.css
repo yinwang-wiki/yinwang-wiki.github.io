@@ -70,40 +70,49 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 .skip-link:focus { transform: translateY(0); }
 
 .wrapper {
-  display: grid;
-  grid-template-columns: 260px minmax(0, 1fr);
-  column-gap: 56px;
-  align-items: start;
-  width: min(100%, 1480px);
+  width: min(100%, 820px);
   margin: 0 auto;
 }
 
-#git-wiki-sidebar {
-  position: sticky !important;
-  top: 32px;
-  float: none;
-  width: 260px !important;
-  height: auto;
-  align-self: start;
-  max-height: calc(100vh - 64px);
-  padding: 0 14px 32px 0 !important;
-  overflow: auto;
-  background: transparent;
-  color: var(--wiki-muted);
+.wiki-site-header {
+  margin-bottom: 30px;
+  border-bottom: 1px solid var(--wiki-border);
 }
-
+.wiki-site-header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 56px;
+  padding-bottom: 10px;
+}
 .site-brand {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-bottom: 28px;
+  min-height: 44px;
   color: var(--wiki-heading);
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 1.2;
 }
 .site-brand:hover { text-decoration: none; }
-.site-brand img { max-width: 48px; max-height: 48px; }
+.site-brand img { max-width: 32px; max-height: 32px; }
+
+#theme-toggle {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid var(--wiki-border);
+  border-radius: 9px;
+  background: var(--wiki-surface);
+  color: var(--wiki-heading);
+  cursor: pointer;
+}
+#theme-toggle:hover { background: var(--wiki-surface-muted); }
 
 .git-wiki-page-list { margin-bottom: 28px; }
 .page-list-title {
@@ -307,7 +316,6 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 #git-wiki-content code { color: var(--wiki-text); }
 
 footer {
-  grid-column: 2;
   width: min(100%, 820px);
   padding: 28px 0 0;
   border-top: 1px solid var(--wiki-border);
@@ -316,21 +324,20 @@ footer {
 }
 footer p { margin: 4px 0; }
 
-#git-wiki-mobile-header { display: none; }
-.sidebar-mobile-actions { display: none; }
 .theme-icon { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
 .theme-icon-sun { display: none; }
 :root[data-theme="dark"] .theme-icon-moon { display: none; }
 :root[data-theme="dark"] .theme-icon-sun { display: block; }
 
 @media (min-width: 1280px) {
+  .wrapper { width: min(100%, 1128px); }
   .wiki-page-shell {
     display: grid;
     grid-template-columns: minmax(0, 820px) minmax(220px, 260px);
     gap: 48px;
     align-items: start;
   }
-  #git-wiki-content { grid-column: 1; grid-row: 1; }
+  .wiki-article { grid-column: 1; grid-row: 1; min-width: 0; }
   .wiki-page-utility {
     position: sticky;
     top: 32px;
@@ -346,75 +353,19 @@ footer p { margin: 4px 0; }
 }
 
 @media (max-width: 992px) {
-  body { padding: 0; }
-  .wrapper { display: block; width: 100%; }
-  #git-wiki-mobile-header {
-    position: fixed;
-    inset: 0 0 auto;
+  body { padding: 0 18px; }
+  .wiki-site-header {
+    position: sticky;
+    top: 0;
     z-index: 1000;
-    display: grid;
-    grid-template-columns: 48px minmax(0, 1fr) 48px;
-    align-items: center;
-    width: 100%;
-    height: 56px;
-    padding: 4px 8px;
-    border: 0;
-    border-bottom: 1px solid var(--wiki-border);
-    border-radius: 0;
+    margin: 0 -18px 24px;
+    padding: 0 18px;
     background: var(--wiki-surface);
-    box-shadow: 0 3px 14px rgba(15, 23, 42, 0.08);
   }
-  .mobile-icon-button {
-    display: grid;
-    place-items: center;
-    width: 44px;
-    height: 44px;
-    padding: 10px;
-    border: 0;
-    border-radius: 9px;
-    background: transparent;
-    color: var(--wiki-heading);
-    cursor: pointer;
-  }
-  .mobile-icon-button svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
-  .mobile-site-title { overflow: hidden; color: var(--wiki-heading); font-size: 20px; font-weight: 700; text-overflow: ellipsis; white-space: nowrap; }
-  .mobile-site-title:hover { text-decoration: none; }
-
-  #git-wiki-sidebar {
-    position: fixed !important;
-    top: 56px;
-    bottom: 0;
-    left: 0;
-    z-index: 1100;
-    display: block !important;
-    width: min(320px, calc(100vw - 32px)) !important;
-    max-height: none;
-    padding: 16px 20px 32px !important;
-    overflow: auto;
-    border: 0;
-    border-right: 1px solid var(--wiki-border);
-    border-radius: 0;
-    background: var(--wiki-surface);
-    box-shadow: var(--wiki-shadow);
-    transform: translateX(-105%);
-    visibility: hidden;
-    pointer-events: none;
-    transition: transform 180ms ease;
-  }
-  #git-wiki-sidebar.is-open { transform: translateX(0); visibility: visible; pointer-events: auto; }
-  .sidebar-mobile-actions { display: flex; justify-content: space-between; gap: 8px; margin-bottom: 20px; }
-  .sidebar-close, .sidebar-theme-toggle {
-    min-height: 44px;
-    padding: 8px 12px;
-    border: 1px solid var(--wiki-border);
-    border-radius: 8px;
-    background: var(--wiki-surface-muted);
-    color: var(--wiki-text);
-  }
-  .git-wiki-page { margin: 0; padding: 80px 18px 48px; border: 0; }
-  .wiki-page-utility { grid-template-columns: 1fr; width: 100%; }
-  #git-wiki-content { width: 100%; }
-  footer { width: auto; margin: 0 18px; padding: 24px 0 32px; }
+  .wiki-site-header-bar { padding-bottom: 0; }
+  .git-wiki-page { padding-bottom: 48px; }
+  .wiki-page-utility { grid-template-columns: 1fr; }
+  footer { padding: 24px 0 32px; }
 }
 
 @media (max-width: 480px) {
@@ -429,7 +380,7 @@ footer p { margin: 4px 0; }
 }
 
 @media print {
-  #git-wiki-sidebar, #git-wiki-mobile-header, .wiki-page-utility, .skip-link { display: none !important; }
+  .wiki-site-header, .wiki-page-utility, .skip-link { display: none !important; }
   body { padding: 0; background: #fff !important; color: #111; font-size: 12pt; }
   .wrapper, .wiki-page-shell { display: block; width: 100%; }
   #git-wiki-content { width: 100%; max-width: none; color: #111; }
