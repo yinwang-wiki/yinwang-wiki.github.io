@@ -224,21 +224,6 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 |[psydiff](https://github.com/yinwang0/psydiff)|程序比较工具|2013-07-06|2016-10-13|Python 结构化程序比较工具|
 |[ydiff](https://github.com/yinwang0/ydiff)|程序比较工具|2014-03-07|2015-02-07|Lisp 系列语言的结构化比较，另有实验性 C++、JavaScript 支持|
 
-## 内容备份与镜像
-
-以下页面由本站或第三方维护，并非王垠本人维护的官方网站。对有公开源码仓库的项目，创建和更新日期均取自对应仓库；最近更新指默认分支最新提交，不代表镜像收录内容的原始发表日期。日期按北京时间（UTC+8）显示，列表按最近更新倒序排列。
-
-|名称|类型|创建日期|最近更新|说明|
-|:--|:--|:--|:--|:--|
-|[王垠博客备份（yinwang-archive）](https://yinwang.jrtx.site/)|第三方镜像|2018-11-12|2026-10-17|原 jrtxio/yinwangdl、turinglambdaai/yinwangdl 均迁至此仓库；[源码仓库](https://github.com/turinglambdaai/yinwang-archive)|
-|[博客文章镜像](https://smallyunet.github.io/yinwang-blog/)|第三方镜像|2026-01-19|2026-10-04|博客历史文章、资源与演示存档；[源码仓库](https://github.com/smallyunet/yinwang-blog)|
-|[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/)|第三方镜像|2026-01-26|2026-09-24|微博存档可见至 2026-09-24；[源码仓库](https://github.com/smallyunet/yinwang-weibo)|
-|[“当然我在扯淡”订阅归档](https://yinwang-wiki.github.io/feeds/)|本站归档|2025-07-25|2026-08-08|只读历史归档，文章列表最新日期为 2021-05-11；[源码仓库](https://github.com/yinwang-wiki/feeds)|
-|[王垠博客 PDF 备份](https://yinwang-wiki.github.io/yinwang-blog-backup/yinwang_blog_backup.pdf)|PDF 归档|2022-08-29|2026-08-08|离线 PDF 历史快照，定时任务已停止；[源码仓库](https://github.com/yinwang-wiki/yinwang-blog-backup)|
-|[Substack 内容镜像](https://smallyunet.github.io/yinwang-substack/)|第三方镜像|2026-02-10|2026-08-08|列表可见内容至 2026-08-07，部分条目标为付费；[源码仓库](https://github.com/smallyunet/yinwang-substack)|
-|[YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)|GitHub 仓库|2016-06-23|2024-05-07|第三方内容备份项目|
-|[当然我在扯淡](https://henix.github.io/feeds/yinwang/)|第三方归档|2015-07-02|2021-05-16|博客文章订阅归档；[源码仓库](https://github.com/henix/feeds)|
-
 ## 学术论文与专题资料
 
 年份采用论文出版年、课程学期或资料正文日期；思维导图采用页面标注的创建或修改年份。教材样章合并列出，年份范围取各章封面日期；相同论文的书目和获奖记录相邻排列。
@@ -258,24 +243,6 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 |[Rectilinear Steiner Minimal Tree among Obstacles](https://doi.org/10.1109/ICASIC.2003.1277559)|学术论文|2003|IEEE 会议论文；[Crossref 书目](https://api.crossref.org/works/10.1109/ICASIC.2003.1277559)列有 Yin Wang|
 |[Voronoi 图的 Beachline 扫描算法的三维图形演示](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/2001f/2001f-a.pdf)|课程项目|2001|清华计算机系秋季 Computational Geometry 项目档案，署名王益、王垠、潘达|
 
-## 历史网站存档
-
-以下链接指向 Wayback Machine 历史快照或其他存档页面。
-
-|名称|来源|快照或可考时间|说明|
-|:--|:--|:--|:--|
-|[简书个人主页](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|Wayback Machine|2016-10-23|简书主页快照|
-|[Indiana 大学个人主页](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|Wayback Machine|2013-11-03|Indiana University 个人主页快照|
-|[知乎主页](https://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|Wayback Machine|2013-08-01|知乎主页快照|
-|[Indiana 大学时期个人简历](https://web.archive.org/web/20120813002931id_/http://www.cs.indiana.edu/~yw21/CV.pdf)|Wayback Machine|2012-08-13|2012 年简历快照，记录其博士生身份、教育、研究与教学经历|
-|[Live 空间](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|Wayback Machine|2007-02-05|Live Space 快照|
-|[MSN 空间](https://web.archive.org/web/20060115082959/http://spaces.msn.com/members/shredderyin)|Wayback Machine|2006-01-15|MSN Spaces 快照|
-|[早期个人主页](https://docs.huihoo.com/homepage/shredderyin/)|Huihoo 镜像|约 2005|页面内容提及 2005 年退学文章；镜像日期未标注|
-|[Yin Wang's Homepage](https://www.latexstudio.net/shredderyin/index.html)|LaTeXStudio 镜像|约 2005|同一早期个人主页的另一镜像；镜像日期未标注|
-|[LOFTER](https://web.archive.org/web/*/http://yinwang0.lofter.com/)|Wayback Machine|待核验|快照时间列表|
-|[新浪博客](https://blog.sina.com.cn/yinwang0)|新浪博客|待核验|早期博客主页|
-|[Flickr 相册](https://www.flickr.com/photos/wangyin/)|Flickr|待核验|早期照片主页|
-
 ## 媒体采访与历史报道
 
 |名称|来源|日期|说明|
@@ -294,3 +261,36 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 |[微软的秘密离职协议](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)|本人文章的第三方存档|2017-05-10|关于离职经过与协议条款的本人陈述|
 |[王垠的一条微博](https://blog.csdn.net/lcfactorization/article/details/51052324)|CSDN 转载|2016-04-03|日期取转载页面发布时间|
 |[对博士学位说永别](https://developer.aliyun.com/article/501078)|阿里云开发者社区用户转载|2012-09-09|关于离开博士培养体系的本人文章；日期取转载页面标注|
+
+## 历史网站存档
+
+以下链接指向 Wayback Machine 历史快照或其他存档页面。
+
+|名称|来源|快照或可考时间|说明|
+|:--|:--|:--|:--|
+|[简书个人主页](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|Wayback Machine|2016-10-23|简书主页快照|
+|[Indiana 大学个人主页](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|Wayback Machine|2013-11-03|Indiana University 个人主页快照|
+|[知乎主页](https://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|Wayback Machine|2013-08-01|知乎主页快照|
+|[Indiana 大学时期个人简历](https://web.archive.org/web/20120813002931id_/http://www.cs.indiana.edu/~yw21/CV.pdf)|Wayback Machine|2012-08-13|2012 年简历快照，记录其博士生身份、教育、研究与教学经历|
+|[Live 空间](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|Wayback Machine|2007-02-05|Live Space 快照|
+|[MSN 空间](https://web.archive.org/web/20060115082959/http://spaces.msn.com/members/shredderyin)|Wayback Machine|2006-01-15|MSN Spaces 快照|
+|[早期个人主页](https://docs.huihoo.com/homepage/shredderyin/)|Huihoo 镜像|约 2005|页面内容提及 2005 年退学文章；镜像日期未标注|
+|[Yin Wang's Homepage](https://www.latexstudio.net/shredderyin/index.html)|LaTeXStudio 镜像|约 2005|同一早期个人主页的另一镜像；镜像日期未标注|
+|[LOFTER](https://web.archive.org/web/*/http://yinwang0.lofter.com/)|Wayback Machine|待核验|快照时间列表|
+|[新浪博客](https://blog.sina.com.cn/yinwang0)|新浪博客|待核验|早期博客主页|
+|[Flickr 相册](https://www.flickr.com/photos/wangyin/)|Flickr|待核验|早期照片主页|
+
+## 内容备份与镜像
+
+以下页面由本站或第三方维护，并非王垠本人维护的官方网站。对有公开源码仓库的项目，创建和更新日期均取自对应仓库；最近更新指默认分支最新提交，不代表镜像收录内容的原始发表日期。日期按北京时间（UTC+8）显示，列表按最近更新倒序排列。
+
+|名称|类型|创建日期|最近更新|说明|
+|:--|:--|:--|:--|:--|
+|[王垠博客备份（yinwang-archive）](https://yinwang.jrtx.site/)|第三方镜像|2018-11-12|2026-10-17|原 jrtxio/yinwangdl、turinglambdaai/yinwangdl 均迁至此仓库；[源码仓库](https://github.com/turinglambdaai/yinwang-archive)|
+|[博客文章镜像](https://smallyunet.github.io/yinwang-blog/)|第三方镜像|2026-01-19|2026-10-04|博客历史文章、资源与演示存档；[源码仓库](https://github.com/smallyunet/yinwang-blog)|
+|[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/)|第三方镜像|2026-01-26|2026-09-24|微博存档可见至 2026-09-24；[源码仓库](https://github.com/smallyunet/yinwang-weibo)|
+|[“当然我在扯淡”订阅归档](https://yinwang-wiki.github.io/feeds/)|本站归档|2025-07-25|2026-08-08|只读历史归档，文章列表最新日期为 2021-05-11；[源码仓库](https://github.com/yinwang-wiki/feeds)|
+|[王垠博客 PDF 备份](https://yinwang-wiki.github.io/yinwang-blog-backup/yinwang_blog_backup.pdf)|PDF 归档|2022-08-29|2026-08-08|离线 PDF 历史快照，定时任务已停止；[源码仓库](https://github.com/yinwang-wiki/yinwang-blog-backup)|
+|[Substack 内容镜像](https://smallyunet.github.io/yinwang-substack/)|第三方镜像|2026-02-10|2026-08-08|列表可见内容至 2026-08-07，部分条目标为付费；[源码仓库](https://github.com/smallyunet/yinwang-substack)|
+|[YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)|GitHub 仓库|2016-06-23|2024-05-07|第三方内容备份项目|
+|[当然我在扯淡](https://henix.github.io/feeds/yinwang/)|第三方归档|2015-07-02|2021-05-16|博客文章订阅归档；[源码仓库](https://github.com/henix/feeds)|
