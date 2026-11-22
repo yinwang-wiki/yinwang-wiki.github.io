@@ -2,7 +2,7 @@
 
 ## 本站说明
 
-本站是社区维护的非官方网站，用于整理公开资料并提供来源链接。原始内容的权利归原作者或相应权利人所有。详见[内容备份与镜像](#内容备份与镜像)及[编辑与归档政策]({{ '/EDITORIAL_POLICY.html' | relative_url }})。（最后复核：2026-10-22）
+本站是社区维护的非官方网站，用于整理公开资料并提供来源链接。原始内容的权利归原作者或相应权利人所有。详见[内容备份与镜像](#内容备份与镜像)及[编辑与归档政策]({{ '/EDITORIAL_POLICY.html' | relative_url }})。
 
 ## 人物简介
 
@@ -20,7 +20,7 @@
 
 清华计算机系官方的[《与时俱进三十年的电子设计自动化研究室》](https://www.cs.tsinghua.edu.cn/info/1169/4062.htm)说明，EDA 研究室隶属于计算机系软件所，研究领域包括集成电路计算机辅助设计，并介绍洪先龙是该研究方向的创建者和负责人之一、经彤后来也是研究室成员。这可以解释王垠论文合作者、软件所和研究方向之间的联系，但现有清华公开页面没有直接写明其正式导师，本站不根据共同署名单独认定导师关系。
 
-王垠在[《清华梦的粉碎》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_20050927_%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E_20050927.html)中自述于 2005 年申请放弃清华博士学位。同期报道能够确认其公开提出退学申请，却不能单独证明教务手续最终生效的准确日期；其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将清华经历列为 2001 至 2006 年、研究内容为电子设计自动化算法，但没有列出清华学位。截至 2026 年 10 月 22 日，本次查阅的公开资料仍未提供王垠的清华博士学位论文、学位授予记录或校方退学决定，因此将其表述为“曾为清华大学计算机系直博生，后申请退学”，不称其为清华博士毕业生。
+王垠在[《清华梦的粉碎》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_20050927_%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E_20050927.html)中自述于 2005 年申请放弃清华博士学位。同期报道能够确认其公开提出退学申请，却不能单独证明教务手续最终生效的准确日期；其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将清华经历列为 2001 至 2006 年、研究内容为电子设计自动化算法，但没有列出清华学位。目前公开资料尚未提供王垠的清华博士学位论文、学位授予记录或校方退学决定，因此将其表述为“曾为清华大学计算机系直博生，后申请退学”，不称其为清华博士毕业生。
 
 ### Cornell 经历
 
@@ -36,7 +36,7 @@ Cornell 的 [Programming Languages Group（PL@Cornell）](https://pl.cs.cornell.
 
 另有两项相互独立的机构和学术记录可以交叉佐证：University of Oregon 的 [OPLSS 2010 参会者名单](https://www.cs.uoregon.edu/research/summerschool/summer10/participants.html)将“Yin Wang”列为来自 Indiana University Bloomington；2012 年与 R. Kent Dybvig 合著的论文 [*Register Allocation By Model Transformer Semantics*](https://arxiv.org/abs/1202.5539)（[PDF 原文](https://arxiv.org/pdf/1202.5539)）在论文首页将两位作者的机构标为 Indiana University。Amr Sabry 等人的论文存档 [*The Two Dualities of Computation*](https://web.archive.org/web/20250115020250id_/https://legacy.cs.indiana.edu/~sabry/papers/rational.pdf)还在致谢中感谢 Yin Wang 提出的问题和意见；这一材料可作为其参与当地研究讨论的补充线索，但不能单独证明学生身份或学位。
 
-上述材料可以确认王垠在 2008 至 2012 年间以博士生身份在 Indiana University Bloomington 学习，并参与程序语言研究和课程教学，但“博士生”不等于“博士毕业”。其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将这段教育经历标为计算机科学硕士（2008—2012）；截至 2026 年 10 月 22 日，本次复核仍未取得可独立确认该硕士学位的 Indiana University 公开学位名录或学位论文记录，因此将“硕士”保留为本人公开履历中的自述，也不据现有材料认定其取得 Indiana University 博士学位。
+上述材料可以确认王垠在 2008 至 2012 年间以博士生身份在 Indiana University Bloomington 学习，并参与程序语言研究和课程教学，但“博士生”不等于“博士毕业”。其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将这段教育经历标为计算机科学硕士（2008—2012）；尚未找到可独立确认该硕士学位的 Indiana University 公开学位名录或学位论文记录，因此将“硕士”保留为本人公开履历中的自述，也不据现有材料认定其取得 Indiana University 博士学位。
 
 ### Google 实习经历
 
@@ -48,13 +48,13 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 王垠在 2010 年发表的 [*PySonar: a type inferencer and indexer for Python*](https://yinwang0.wordpress.com/2010/09/12/pysonar/)介绍了该 Python 类型推导和语义索引工具；2013 年的 [*PySonar2 opensourced*](https://yinwang0.substack.com/p/pysonar2)则称 PySonar 最初在 Google 开发，并在与 Google 协商后将第二版发布到其 [GitHub 仓库](https://github.com/yinwang0/pysonar2)。后两项仍属于本人陈述，但与同期 Jython 代码记录及 Grok 项目资料一致。
 
-综合上述材料，本站将这段经历表述为：王垠于 2009 年和 2010 年夏季两次在 Google Kirkland 办公室担任软件工程实习生，参与 Grok 大规模代码分析项目，工作集中于 Python 静态分析、类型推导和语义索引。截至 2026 年 10 月 22 日，本次复核仍未补得直接署名王垠的 Google 官方员工页面、Google Research 作者页或 Google 代码提交记录，因此不据现有资料声称 Google 官方确认其为公开 indexer 的唯一作者。
+综合上述材料，本站将这段经历表述为：王垠于 2009 年和 2010 年夏季两次在 Google Kirkland 办公室担任软件工程实习生，参与 Grok 大规模代码分析项目，工作集中于 Python 静态分析、类型推导和语义索引。尚未找到直接署名王垠的 Google 官方员工页面、Google Research 作者页或 Google 代码提交记录，因此不据现有资料声称 Google 官方确认其为公开 indexer 的唯一作者。
 
 ### Coverity、Voxer 与 Sourcegraph
 
 2012 年 12 月，王垠据其公开履历加入旧金山的 Coverity，职位为 Static Analysis Engineer。他在[《半年来的工作感受》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_06_17_work_20150206.html)中称自己在 Coverity 从事静态分析软件开发；两天后的[《我离开了 Coverity》](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_06_19_bye-coverity_20170507.html)明确写到已经辞职。这与 LinkedIn 所列的 2012 年 12 月至 2013 年 6 月任期吻合，但两篇文章均属于本人陈述，不能替代公司记录。
 
-离开 Coverity 后，他短暂任职于 Voxer。[《再见 Voxer，你好 Sourcegraph》](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_11_08_voxer-sg_20150118.html)称他经 Coverity 创始人介绍加入 Voxer，作为该公司的第一个 Data Engineer 工作了两个多月，随后于 2013 年 11 月决定加入 Sourcegraph。这段 Voxer 经历没有列入本次查阅的 LinkedIn 履历，现有文章也不足以确定准确入职月份；[《在 Sourcegraph 的第三天》](https://web.archive.org/web/20140210021252/http://www.yinwang.org/blog-cn/2013/11/13/sg3/)则称已经正式加入 Sourcegraph，并开始把 PySonar2 接入其系统。
+离开 Coverity 后，他短暂任职于 Voxer。[《再见 Voxer，你好 Sourcegraph》](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_11_08_voxer-sg_20150118.html)称他经 Coverity 创始人介绍加入 Voxer，作为该公司的第一个 Data Engineer 工作了两个多月，随后于 2013 年 11 月决定加入 Sourcegraph。这段 Voxer 经历未见于其 LinkedIn 履历，现有文章也不足以确定准确入职月份；[《在 Sourcegraph 的第三天》](https://web.archive.org/web/20140210021252/http://www.yinwang.org/blog-cn/2013/11/13/sg3/)则称已经正式加入 Sourcegraph，并开始把 PySonar2 接入其系统。
 
 其公开履历将 Sourcegraph 的任期列为 2013 年 11 月至 2014 年 5 月，地点为旧金山，职位为 Lead Researcher。公司侧也留有同期技术记录：2014 年 2 至 3 月，GitHub 账号 [`yinwang0`](https://github.com/yinwang0)以 `Yin Wang <yinwang0@gmail.com>` 身份在 Sourcegraph 官方组织的 [`annotate`](https://github.com/sourcegraph/annotate/commit/476cb837e50eaffead84b1e756dd73f68d7686e3)、[`vcsserver`](https://github.com/sourcegraph/vcsserver/commit/6e9b9afca4292ec50c671e13b7ec5631f4758fcf)、[`syntaxhighlight`](https://github.com/sourcegraph/syntaxhighlight/commit/62248d05ecfbfc9c42d2fafe93e9bd2e54c5a27b)和 [`go-vcs`](https://github.com/sourcegraph/go-vcs/commit/f8ff6a70dc4b9b186e9ba4813174b10285324014)仓库中留下提交。这些记录能够有力佐证其在所述时期参与 Sourcegraph 工程工作，但不能单独证明劳动关系或 `Lead Researcher` 职级。
 
@@ -62,13 +62,13 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 2014 年 10 月至 2016 年 7 月，其公开履历列有位于 Mountain View 的 Shape Security Senior Software Engineer 经历。Shape Security 官方 GitHub 组织保存了同期记录：2015 年 2 月，`yinwang0` 在 [`shift-java`](https://github.com/shapesecurity/shift-java/commit/563f47dff86f1506acd9e0d7cc2e8da8685d2730)仓库合并代码；同年 5 月又以该账号发起了修复 [pull request #57](https://github.com/shapesecurity/shift-java/pull/57)。这些公司官方组织内的记录可以佐证其参与工程开发，但仍不能单独确认 `Senior Software Engineer` 职级。
 
-2016 年 7 月至 2017 年 4 月，其公开履历列有位于 Sunnyvale 的 Microsoft Senior Software Engineer 经历。王垠在 2017 年的[《更新》](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_04_06_update_20180409.html)中称自己所在团队的产品是企业级存储设备 StorSimple；随后发表的[《微软的秘密离职协议》](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)描述了离职过程。文章时间和内容与 LinkedIn 所列 2016 年 7 月至 2017 年 4 月的任期基本一致，但截至 2026 年 10 月 22 日，本次复核仍未补得能够独立确认其职位的 Microsoft 公司侧公开材料；搜索中出现的多位同名 Microsoft 员工和论文作者亦未被纳入。
+2016 年 7 月至 2017 年 4 月，其公开履历列有位于 Sunnyvale 的 Microsoft Senior Software Engineer 经历。王垠在 2017 年的[《更新》](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_04_06_update_20180409.html)中称自己所在团队的产品是企业级存储设备 StorSimple；随后发表的[《微软的秘密离职协议》](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)描述了离职过程。文章时间和内容与 LinkedIn 所列 2016 年 7 月至 2017 年 4 月的任期基本一致，但尚未找到能够独立确认其职位的 Microsoft 公司侧公开材料；搜索中出现的多位同名 Microsoft 员工和论文作者亦未被纳入。
 
 ### Intel 与 F5
 
 2018 年 7 月至 2020 年 4 月，其公开履历列有位于上海的 Intel Staff Software Engineer 经历。Intel 官方 GitHub 组织提供了同期旁证。2019 年 3 月，`yinwang0` 以 `Yin Wang <yinwang0@gmail.com>` 身份在 Intel 的 [`Deep-learning-math-kernel-research`](https://github.com/intel/Deep-learning-math-kernel-research/commit/a35e186af265df8a6247af42953590584b1ec276)仓库提交代码，另有包含 `prv-yin-test` 分支的[合并提交](https://github.com/intel/Deep-learning-math-kernel-research/commit/a1c2befe81debb11d1cffafc779109a438f6b1b6)。王垠在[《2020 新年寄语》](https://smallyunet.github.io/yinwang-blog/blog-cn_2019_12_31_2020-new-year_20200228.html)中也称自己即将离开 Intel。两类材料与 LinkedIn 所列 2018 年 7 月至 2020 年 4 月任期相符；GitHub 记录能够佐证其参与 Intel 项目，但不能单独确认 `Staff Software Engineer` 职级。
 
-2023 年 1 月，其公开履历记载他在伦敦加入 F5，职位为 Principal Engineer；2024 年 6 月，工作地点转为东京。本次查阅时，LinkedIn 仍将东京这段经历标为“Present”，第三方名录 [The Org](https://theorg.com/org/f5-networks/person/yin-wang)也保留 F5 职位信息。但职业资料页不能自动反映后续变化，The Org 也不属于 F5 官方证明，因此需要结合更晚的本人陈述阅读。
+2023 年 1 月，其公开履历记载他在伦敦加入 F5，职位为 Principal Engineer；2024 年 6 月，工作地点转为东京。其 LinkedIn 履历曾将东京这段经历标为“Present”，第三方名录 [The Org](https://theorg.com/org/f5-networks/person/yin-wang)也保留 F5 职位信息。但职业资料页不能自动反映后续变化，The Org 也不属于 F5 官方证明，因此需要结合更晚的本人陈述阅读。
 
 2025 年 10 月 1 日，王垠在[一则讨论网络安全公司与 DSL 的微博](https://weibo.com/6347862377/Q76XZbxkG)中表示，自己计划于次月离职，并不再为公司工作（[第三方存档](https://smallyunet.github.io/yinwang-weibo/#post-5216950792749742)）。这则微博没有直接写出公司名，结合其公开履历可推测是在谈 F5，但它首先是一份离职计划，不能单独确定实际离职月份。
 
@@ -94,7 +94,7 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 ### 近期写作与发布渠道
 
-2026 年 9 月 24 日，王垠在[《停用微博》](https://weibo.com/6347862377/RjBmiptFp)中宣布停止在微博发布内容，改用个人网站的手记栏目（[第三方存档](https://smallyunet.github.io/yinwang-weibo/#post-5346718426072243)）。截至 2026 年 10 月 22 日，[个人网站手记](https://www.yinwang.org/notes)可见更新至 10 月 21 日的内容，包括计算机科学课程与日常记录。因此，微博应作为历史发布渠道查阅，近期动态优先参阅个人网站。
+2026 年 9 月 24 日，王垠在[《停用微博》](https://weibo.com/6347862377/RjBmiptFp)中宣布停止在微博发布内容，改用个人网站的手记栏目（[第三方存档](https://smallyunet.github.io/yinwang-weibo/#post-5346718426072243)）。[个人网站手记](https://www.yinwang.org/notes)在 2026 年 10 月 21 日仍有更新，内容包括计算机科学课程与日常记录。因此，微博应作为历史发布渠道查阅，近期动态优先参阅个人网站。
 
 ## 相关事件与观点
 
@@ -191,8 +191,6 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 ## 网站与社交账号
 
-以下账号于 2026-10-22 复核公开页面、名称与可见状态；页面可访问不等于账号仍在持续更新。
-
 |名称|类型|说明|
 |:--|:--|:--|
 |[Surely I am Joking（当然我在扯淡）](https://www.yinwang.org/)|个人网站|现含文章、[手记](https://www.yinwang.org/notes)与课程栏目|
@@ -206,7 +204,7 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 |[yinwang0](https://github.com/yinwang0)|GitHub|开源项目主页|
 |[yinwang0’s gists](https://gist.github.com/yinwang0)|GitHub Gist|可见 Scheme 等代码片段|
 
-## 开源项目（最后核验：2026-10-22）
+## 开源项目<span id="开源项目最后核验2026-10-22" aria-hidden="true" style="scroll-margin-top: 80px"></span> {#开源项目}
 
 以下日期取自 GitHub：创建日期为仓库创建时间，最近更新为默认分支最新提交日期，不使用可能受标签或镜像同步影响的 `pushed_at`。日期按北京时间（UTC+8）显示，项目按最近更新倒序排列。
 
@@ -220,7 +218,7 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 ## 内容备份与镜像
 
-以下页面由本站或第三方维护，并非王垠本人维护的官方网站。对有公开源码仓库的项目，创建和更新日期均取自对应仓库；最近更新指默认分支最新提交，不代表镜像收录内容的原始发表日期。日期按北京时间（UTC+8）显示，列表按最近更新倒序排列。（最后核验：2026-10-22）
+以下页面由本站或第三方维护，并非王垠本人维护的官方网站。对有公开源码仓库的项目，创建和更新日期均取自对应仓库；最近更新指默认分支最新提交，不代表镜像收录内容的原始发表日期。日期按北京时间（UTC+8）显示，列表按最近更新倒序排列。
 
 |名称|类型|创建日期|最近更新|说明|
 |:--|:--|:--|:--|:--|
@@ -235,7 +233,7 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 ## 学术论文与专题资料
 
-年份采用论文出版年、课程学期或资料正文日期；思维导图采用页面标注的创建或修改年份。教材样章合并列出，年份范围取各章封面日期；相同论文的书目和获奖记录相邻排列。（最后核验：2026-10-22）
+年份采用论文出版年、课程学期或资料正文日期；思维导图采用页面标注的创建或修改年份。教材样章合并列出，年份范围取各章封面日期；相同论文的书目和获奖记录相邻排列。
 
 |名称|类型|年份|说明|
 |:--|:--|:--|:--|
