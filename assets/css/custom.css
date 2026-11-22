@@ -324,6 +324,24 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
   color: var(--wiki-muted);
   font-size: 0.9rem;
 }
+#git-wiki-content .reference-table {
+  display: table;
+  table-layout: fixed;
+  margin-bottom: 12px;
+}
+#git-wiki-content .reference-table :is(th, td) { min-width: 0; }
+#git-wiki-content .reference-table time { white-space: nowrap; }
+#git-wiki-content .reference-table small,
+#git-wiki-content .reference-note {
+  color: var(--wiki-muted);
+  font-size: 0.9rem;
+}
+#git-wiki-content .reference-date-column th:first-child { width: 34%; }
+#git-wiki-content .reference-date-column th:nth-child(2) { width: 7.25rem; }
+#git-wiki-content .reference-year-column th:first-child { width: 4.5rem; }
+#git-wiki-content .reference-year-column th:last-child { width: 41%; }
+#git-wiki-content .reference-source-column th:first-child { width: 44%; }
+#git-wiki-content .reference-source-column th:nth-child(2) { width: clamp(7.25rem, 25%, 12rem); }
 #git-wiki-content blockquote { border-left-color: var(--wiki-border); }
 #git-wiki-content pre { background: var(--wiki-surface-muted); border-color: var(--wiki-border); }
 #git-wiki-content code { color: var(--wiki-text); }
@@ -386,6 +404,12 @@ footer p { margin: 4px 0; }
   #git-wiki-content h1 { font-size: 2rem; }
   #git-wiki-content h2 { font-size: 1.55rem; }
   #git-wiki-content th, #git-wiki-content td { min-width: 112px; padding: 9px 10px; }
+  #git-wiki-content .reference-table :is(th, td) { padding: 8px; }
+  #git-wiki-content .reference-date-column th:first-child,
+  #git-wiki-content .reference-source-column th:first-child { width: 33%; }
+  #git-wiki-content .reference-date-column th:nth-child(2),
+  #git-wiki-content .reference-source-column th:nth-child(2) { width: 6.75rem; }
+  #git-wiki-content .reference-year-column th:first-child { width: 3.25rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {

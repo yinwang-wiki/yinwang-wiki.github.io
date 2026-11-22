@@ -215,83 +215,94 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 ## 开源项目<span id="开源项目最后核验2026-10-22" aria-hidden="true" style="scroll-margin-top: 80px"></span> {#开源项目}
 
-以下日期取自 GitHub：创建日期为仓库创建时间，最近更新为默认分支最新提交日期，不使用可能受标签或镜像同步影响的 `pushed_at`。日期按北京时间（UTC+8）显示，项目按最近更新倒序排列。
+|项目|最近更新|简介|
+|:--|:--|:--|
+|[PySonar2](https://github.com/yinwang0/pysonar2)<br><small>创建于 <time datetime="2013-10-29">2013-10-29</time></small>|<time datetime="2025-07-04">2025-07-04</time>|Python 语义索引与类型推导|
+|[tinyKanren](https://github.com/yinwang0/tinyKanren)<br><small>创建于 <time datetime="2022-04-19">2022-04-19</time></small>|<time datetime="2022-05-02">2022-05-02</time>|miniKanren 逻辑编程语言的精简实现|
+|[rubysonar](https://github.com/yinwang0/rubysonar)<br><small>创建于 <time datetime="2013-12-17">2013-12-17</time></small>|<time datetime="2019-11-05">2019-11-05</time>|Ruby 语义索引与类型推导|
+|[psydiff](https://github.com/yinwang0/psydiff)<br><small>创建于 <time datetime="2013-07-06">2013-07-06</time></small>|<time datetime="2016-10-13">2016-10-13</time>|Python 结构化程序比较|
+|[ydiff](https://github.com/yinwang0/ydiff)<br><small>创建于 <time datetime="2014-03-07">2014-03-07</time></small>|<time datetime="2015-02-07">2015-02-07</time>|Lisp 系语言的结构化比较，另有实验性 C++、JavaScript 支持|
+{: .reference-table .reference-date-column}
 
-|名称|类型|创建日期|最近更新|说明|
-|:--|:--|:--|:--|:--|
-|[PySonar2](https://github.com/yinwang0/pysonar2)|静态分析工具|2013-10-29|2025-07-04|Python 语义索引与类型推导|
-|[tinyKanren](https://github.com/yinwang0/tinyKanren)|程序语言|2022-04-19|2022-05-02|miniKanren 的精简实现|
-|[rubysonar](https://github.com/yinwang0/rubysonar)|静态分析工具|2013-12-17|2019-11-05|Ruby 语义索引与类型推导|
-|[psydiff](https://github.com/yinwang0/psydiff)|程序比较工具|2013-07-06|2016-10-13|Python 结构化程序比较工具|
-|[ydiff](https://github.com/yinwang0/ydiff)|程序比较工具|2014-03-07|2015-02-07|Lisp 系列语言的结构化比较，另有实验性 C++、JavaScript 支持|
+日期来自 GitHub，按北京时间（UTC+8）显示。最近更新取默认分支的最新提交，列表按该日期倒序。
+{: .reference-note}
 
 ## 学术论文与专题资料
 
-年份采用论文出版年、课程学期或资料正文日期；思维导图采用页面标注的创建或修改年份。教材样章合并列出，年份范围取各章封面日期；相同论文的书目和获奖记录相邻排列。
+**Ground-Up Computer Science 教材样章（2021—2023）** · [1. Functions](https://www.yinwang.org/resources/gucs-sample-chapter1.pdf) · [2. Recursion](https://www.yinwang.org/resources/gucs-sample-chapter2.pdf) · [3. Lists](https://www.yinwang.org/resources/gucs-sample-chapter3.pdf) · [4. Trees](https://www.yinwang.org/resources/gucs-sample-chapter4.pdf) · [5. Calculator](https://www.yinwang.org/resources/gucs-sample-chapter5.pdf)
 
-|名称|类型|年份|说明|
-|:--|:--|:--|:--|
-|Ground-Up Computer Science|教材样章|2021—2023|[1. Functions](https://www.yinwang.org/resources/gucs-sample-chapter1.pdf)；[2. Recursion](https://www.yinwang.org/resources/gucs-sample-chapter2.pdf)；[3. Lists](https://www.yinwang.org/resources/gucs-sample-chapter3.pdf)；[4. Trees](https://www.yinwang.org/resources/gucs-sample-chapter4.pdf)；[5. Calculator](https://www.yinwang.org/resources/gucs-sample-chapter5.pdf)|
-|[Yin's Blog - Mind Map](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|思维导图|2013|页面作者标为 Yin Wang，最后修改日期为 2013-04-28|
-|[Yin's Mid-Term Memory](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|思维导图|2013|页面作者标为 Yin Wang，创建于 2013-04-26，修改于 2013-07-23|
-|[Register Allocation By Model Transformer Semantics](https://arxiv.org/abs/1202.5539)|学术论文|2012|合作者：R. Kent Dybvig|
-|[Static Analysis of Dynamically Typed Languages made Easy](https://www.yinwang.org/resources/pysonar-slides.pdf)|演讲幻灯片|2012|动态语言静态分析；[本人文章](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_06_21_pysonar-slides_20130626.html)称演讲于 2012 年 9 月，现存 PDF 导出于 2013-06-22|
-|[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://doi.org/10.1145/1120725.1120731)|学术论文|2005|ASP-DAC 2005 论文；出版商登记的 [Crossref 书目](https://api.crossref.org/works/10.1145/1120725.1120731)可交叉查阅|
-|[同篇论文的 DBLP 记录](https://dblp.org/rec/conf/aspdac/WangHJYHY05)|DBLP 记录|2005|论文书目记录；本次访问受限，另以上方 Crossref 书目核对论文|
-|[ASP-DAC 2005 Best Papers](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)|获奖资料|2005|ASP-DAC 2005 获奖论文名单|
-|[An Efficient Low-Degree RMST Algorithm for VLSI/ULSI Physical Design](https://doi.org/10.1007/978-3-540-30205-6_46)|学术论文|2004|Springer LNCS 论文，列有清华计算机系机构与校内邮箱|
-|[非直角互连——布线技术发展的新趋势](https://www.jos.ac.cn/en/article/id/0b362945-dd24-4bd3-8ec3-39b6c66ddf0c)|学术论文|2003|《半导体学报》，IC CAD 与布线研究|
-|[Rectilinear Steiner Minimal Tree among Obstacles](https://doi.org/10.1109/ICASIC.2003.1277559)|学术论文|2003|IEEE 会议论文；[Crossref 书目](https://api.crossref.org/works/10.1109/ICASIC.2003.1277559)列有 Yin Wang|
-|[Voronoi 图的 Beachline 扫描算法的三维图形演示](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/2001f/2001f-a.pdf)|课程项目|2001|清华计算机系秋季 Computational Geometry 项目档案，署名王益、王垠、潘达|
+|年份|论文或资料|说明与链接|
+|:--|:--|:--|
+|2013|[Yin's Blog - Mind Map](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|思维导图，作者标为 Yin Wang，修改于 <time datetime="2013-04-28">2013-04-28</time>|
+|2013|[Yin's Mid-Term Memory](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|思维导图，作者标为 Yin Wang，创建于 <time datetime="2013-04-26">2013-04-26</time>，修改于 <time datetime="2013-07-23">2013-07-23</time>|
+|2012|[Register Allocation By Model Transformer Semantics](https://arxiv.org/abs/1202.5539)|论文，与 R. Kent Dybvig 合作|
+|2012|[Static Analysis of Dynamically Typed Languages made Easy](https://www.yinwang.org/resources/pysonar-slides.pdf)|动态语言静态分析幻灯片。[王垠自述](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_06_21_pysonar-slides_20130626.html)称演讲于 2012 年 9 月，PDF 导出于 <time datetime="2013-06-22">2013-06-22</time>|
+|2005|[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://doi.org/10.1145/1120725.1120731)|ASP-DAC 2005 论文 · [Crossref 书目](https://api.crossref.org/works/10.1145/1120725.1120731) · [DBLP 记录](https://dblp.org/rec/conf/aspdac/WangHJYHY05) · [Best Paper Award 名单](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)|
+|2004|[An Efficient Low-Degree RMST Algorithm for VLSI/ULSI Physical Design](https://doi.org/10.1007/978-3-540-30205-6_46)|Springer LNCS 论文，列有清华计算机系机构与校内邮箱|
+|2003|[非直角互连——布线技术发展的新趋势](https://www.jos.ac.cn/en/article/id/0b362945-dd24-4bd3-8ec3-39b6c66ddf0c)|《半导体学报》论文，讨论 IC CAD 与布线研究|
+|2003|[Rectilinear Steiner Minimal Tree among Obstacles](https://doi.org/10.1109/ICASIC.2003.1277559)|IEEE 会议论文，[Crossref 书目](https://api.crossref.org/works/10.1109/ICASIC.2003.1277559)列有 Yin Wang|
+|2001|[Voronoi 图的 Beachline 扫描算法的三维图形演示](https://dsa.cs.tsinghua.edu.cn/~deng/cg/project/2001f/2001f-a.pdf)|清华计算机系秋季 Computational Geometry 课程项目，署名王益、王垠、潘达|
+{: .reference-table .reference-year-column}
+
+年份取论文出版年、课程学期或资料标注的年份。教材年份取各章封面。2005 年论文的 DBLP 页面曾访问受限，书目可见同一行的 Crossref 链接。
+{: .reference-note}
 
 ## 媒体采访与历史报道
 
-|名称|来源|日期|说明|
-|:--|:--|:--|:--|
-|[阿里面试争议：王垠与赵海平的双方回应](https://www.ithome.com/0/464/417.htm)|IT之家转载网易科技|2019-12-22|收录王垠的面试自述和赵海平的回应；双方对提问方式、博客讨论与录用决定的说法存在分歧|
-|[王垠“申请清华退学 我不后悔”](https://news.sina.com.cn/c/2005-10-24/10037246084s.shtml)|新浪新闻|2005-10-24|同期退学申请报道与采访|
-|[清华申请退学博士王垠：退学是为不失去创造力](https://news.sohu.com/20051022/n227277397.shtml)|搜狐新闻|2005-10-22|同期人物报道|
-|[专访清华申请退学博士王垠：我会把退学坚持到底](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)|新浪新闻|2005-10-17|《新周刊》采访转载|
-|[资料：王垠个人简历](https://star.news.sohu.com/20050927/n240459496.shtml)|搜狐新闻|2005-09-27|同期人物资料|
+|报道|媒体与日期|要点|
+|:--|:--|:--|
+|[阿里面试争议：王垠与赵海平的双方回应](https://www.ithome.com/0/464/417.htm)|IT之家转网易科技 · <time datetime="2019-12-22">2019-12-22</time>|收录双方对提问方式、博客讨论和录用决定的不同说法|
+|[王垠“申请清华退学 我不后悔”](https://news.sina.com.cn/c/2005-10-24/10037246084s.shtml)|新浪新闻 · <time datetime="2005-10-24">2005-10-24</time>|同期报道与采访|
+|[清华申请退学博士王垠：退学是为不失去创造力](https://news.sohu.com/20051022/n227277397.shtml)|搜狐新闻 · <time datetime="2005-10-22">2005-10-22</time>|同期人物报道|
+|[专访清华申请退学博士王垠：我会把退学坚持到底](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)|新浪新闻 · <time datetime="2005-10-17">2005-10-17</time>|转载《新周刊》采访|
+|[资料：王垠个人简历](https://star.news.sohu.com/20050927/n240459496.shtml)|搜狐新闻 · <time datetime="2005-09-27">2005-09-27</time>|同期人物资料|
+{: .reference-table .reference-source-column}
 
 ## 相关转载与轶闻
 
-|名称|来源|日期|说明|
-|:--|:--|:--|:--|
-|[再谈“P vs NP”问题](https://yinwang.jrtx.site/posts/pnp2/)|本人博客的第三方存档|2019-07-21|日期为博客标注的原始发表日；面试经过见[相关事件与观点](#相关事件与观点)|
-|[微软的秘密离职协议](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)|本人文章的第三方存档|2017-05-10|关于离职经过与协议条款的本人陈述|
-|[王垠的一条微博](https://blog.csdn.net/lcfactorization/article/details/51052324)|CSDN 转载|2016-04-03|日期取转载页面发布时间|
-|[对博士学位说永别](https://developer.aliyun.com/article/501078)|阿里云开发者社区用户转载|2012-09-09|关于离开博士培养体系的本人文章；日期取转载页面标注|
+|标题|来源与日期|内容|
+|:--|:--|:--|
+|[再谈“P vs NP”问题](https://yinwang.jrtx.site/posts/pnp2/)|本人博客存档 · <time datetime="2019-07-21">2019-07-21</time>|面试经过见[相关事件与观点](#相关事件与观点)|
+|[微软的秘密离职协议](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)|本人文章存档 · <time datetime="2017-05-10">2017-05-10</time>|离职经过与协议条款的本人陈述|
+|[王垠的一条微博](https://blog.csdn.net/lcfactorization/article/details/51052324)|CSDN 转载 · <time datetime="2016-04-03">2016-04-03</time>||
+|[对博士学位说永别](https://developer.aliyun.com/article/501078)|阿里云社区用户转载 · <time datetime="2012-09-09">2012-09-09</time>|离开博士培养体系的本人陈述|
+{: .reference-table .reference-source-column}
+
+存档条目采用原文标注的发表日期，转载条目采用转载页面日期。
+{: .reference-note}
 
 ## 历史网站存档
 
-以下链接指向 Wayback Machine 历史快照或其他存档页面。
+历史快照来自 Wayback Machine。镜像和原站链接在表中单独标注。
 
-|名称|来源|快照或可考时间|说明|
-|:--|:--|:--|:--|
-|[简书个人主页](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|Wayback Machine|2016-10-23|简书主页快照|
-|[Indiana 大学个人主页](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|Wayback Machine|2013-11-03|Indiana University 个人主页快照|
-|[知乎主页](https://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|Wayback Machine|2013-08-01|知乎主页快照|
-|[Indiana 大学时期个人简历](https://web.archive.org/web/20120813002931id_/http://www.cs.indiana.edu/~yw21/CV.pdf)|Wayback Machine|2012-08-13|2012 年简历快照，记录其博士生身份、教育、研究与教学经历|
-|[Live 空间](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|Wayback Machine|2007-02-05|Live Space 快照|
-|[MSN 空间](https://web.archive.org/web/20060115082959/http://spaces.msn.com/members/shredderyin)|Wayback Machine|2006-01-15|MSN Spaces 快照|
-|[早期个人主页](https://docs.huihoo.com/homepage/shredderyin/)|Huihoo 镜像|约 2005|页面内容提及 2005 年退学文章；镜像日期未标注|
-|[Yin Wang's Homepage](https://www.latexstudio.net/shredderyin/index.html)|LaTeXStudio 镜像|约 2005|同一早期个人主页的另一镜像；镜像日期未标注|
-|[LOFTER](https://web.archive.org/web/*/http://yinwang0.lofter.com/)|Wayback Machine|待核验|快照时间列表|
-|[新浪博客](https://blog.sina.com.cn/yinwang0)|新浪博客|待核验|早期博客主页|
-|[Flickr 相册](https://www.flickr.com/photos/wangyin/)|Flickr|待核验|早期照片主页|
+|页面|快照日期|说明|
+|:--|:--|:--|
+|[简书个人主页](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|<time datetime="2016-10-23">2016-10-23</time>||
+|[Indiana 大学个人主页](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|<time datetime="2013-11-03">2013-11-03</time>||
+|[知乎主页](https://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|<time datetime="2013-08-01">2013-08-01</time>||
+|[Indiana 大学时期个人简历](https://web.archive.org/web/20120813002931id_/http://www.cs.indiana.edu/~yw21/CV.pdf)|<time datetime="2012-08-13">2012-08-13</time>|记录博士生身份、教育、研究与教学经历|
+|[Live 空间](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|<time datetime="2007-02-05">2007-02-05</time>||
+|[MSN 空间](https://web.archive.org/web/20060115082959/http://spaces.msn.com/members/shredderyin)|<time datetime="2006-01-15">2006-01-15</time>||
+|[早期个人主页](https://docs.huihoo.com/homepage/shredderyin/)|约 2005|Huihoo 镜像，页面提及 2005 年退学文章，镜像日期未标注|
+|[Yin Wang's Homepage](https://www.latexstudio.net/shredderyin/index.html)|约 2005|同一早期主页的 LaTeXStudio 镜像，镜像日期未标注|
+|[LOFTER](https://web.archive.org/web/*/http://yinwang0.lofter.com/)|待核验|Wayback Machine 快照列表|
+|[新浪博客](https://blog.sina.com.cn/yinwang0)|待核验|早期博客原站|
+|[Flickr 相册](https://www.flickr.com/photos/wangyin/)|待核验|早期照片主页原站|
+{: .reference-table .reference-date-column}
 
 ## 内容备份与镜像
 
-以下页面由本站或第三方维护，并非王垠本人维护的官方网站。对有公开源码仓库的项目，创建和更新日期均取自对应仓库；最近更新指默认分支最新提交，不代表镜像收录内容的原始发表日期。日期按北京时间（UTC+8）显示，列表按最近更新倒序排列。
+|备份入口|最近更新|收录范围|
+|:--|:--|:--|
+|[王垠博客备份（yinwang-archive）](https://yinwang.jrtx.site/) · [源码](https://github.com/turinglambdaai/yinwang-archive)<br><small>创建于 <time datetime="2018-11-12">2018-11-12</time></small>|<time datetime="2026-10-17">2026-10-17</time>|博客文章。原 jrtxio/yinwangdl 和 turinglambdaai/yinwangdl 均迁至此仓库|
+|[博客文章镜像](https://smallyunet.github.io/yinwang-blog/) · [源码](https://github.com/smallyunet/yinwang-blog)<br><small>创建于 <time datetime="2026-01-19">2026-01-19</time></small>|<time datetime="2026-10-04">2026-10-04</time>|博客历史文章、资源与演示|
+|[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/) · [源码](https://github.com/smallyunet/yinwang-weibo)<br><small>创建于 <time datetime="2026-01-26">2026-01-26</time></small>|<time datetime="2026-09-24">2026-09-24</time>|微博存档可见至 <time datetime="2026-09-24">2026-09-24</time>|
+|[“当然我在扯淡”订阅归档](https://yinwang-wiki.github.io/feeds/) · [源码](https://github.com/yinwang-wiki/feeds)<br><small>创建于 <time datetime="2025-07-25">2025-07-25</time></small>|<time datetime="2026-08-08">2026-08-08</time>|本站只读归档，文章列表最新日期为 <time datetime="2021-05-11">2021-05-11</time>|
+|[王垠博客 PDF 备份](https://yinwang-wiki.github.io/yinwang-blog-backup/yinwang_blog_backup.pdf) · [源码](https://github.com/yinwang-wiki/yinwang-blog-backup)<br><small>创建于 <time datetime="2022-08-29">2022-08-29</time></small>|<time datetime="2026-08-08">2026-08-08</time>|离线 PDF 历史快照，定时任务已停止|
+|[Substack 内容镜像](https://smallyunet.github.io/yinwang-substack/) · [源码](https://github.com/smallyunet/yinwang-substack)<br><small>创建于 <time datetime="2026-02-10">2026-02-10</time></small>|<time datetime="2026-08-08">2026-08-08</time>|列表可见至 <time datetime="2026-08-07">2026-08-07</time>，部分条目标为付费|
+|[YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)<br><small>创建于 <time datetime="2016-06-23">2016-06-23</time></small>|<time datetime="2024-05-07">2024-05-07</time>|GitHub 上的第三方内容备份|
+|[当然我在扯淡](https://henix.github.io/feeds/yinwang/) · [源码](https://github.com/henix/feeds)<br><small>创建于 <time datetime="2015-07-02">2015-07-02</time></small>|<time datetime="2021-05-16">2021-05-16</time>|第三方博客订阅归档|
+{: .reference-table .reference-date-column}
 
-|名称|类型|创建日期|最近更新|说明|
-|:--|:--|:--|:--|:--|
-|[王垠博客备份（yinwang-archive）](https://yinwang.jrtx.site/)|第三方镜像|2018-11-12|2026-10-17|原 jrtxio/yinwangdl、turinglambdaai/yinwangdl 均迁至此仓库；[源码仓库](https://github.com/turinglambdaai/yinwang-archive)|
-|[博客文章镜像](https://smallyunet.github.io/yinwang-blog/)|第三方镜像|2026-01-19|2026-10-04|博客历史文章、资源与演示存档；[源码仓库](https://github.com/smallyunet/yinwang-blog)|
-|[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/)|第三方镜像|2026-01-26|2026-09-24|微博存档可见至 2026-09-24；[源码仓库](https://github.com/smallyunet/yinwang-weibo)|
-|[“当然我在扯淡”订阅归档](https://yinwang-wiki.github.io/feeds/)|本站归档|2025-07-25|2026-08-08|只读历史归档，文章列表最新日期为 2021-05-11；[源码仓库](https://github.com/yinwang-wiki/feeds)|
-|[王垠博客 PDF 备份](https://yinwang-wiki.github.io/yinwang-blog-backup/yinwang_blog_backup.pdf)|PDF 归档|2022-08-29|2026-08-08|离线 PDF 历史快照，定时任务已停止；[源码仓库](https://github.com/yinwang-wiki/yinwang-blog-backup)|
-|[Substack 内容镜像](https://smallyunet.github.io/yinwang-substack/)|第三方镜像|2026-02-10|2026-08-08|列表可见内容至 2026-08-07，部分条目标为付费；[源码仓库](https://github.com/smallyunet/yinwang-substack)|
-|[YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)|GitHub 仓库|2016-06-23|2024-05-07|第三方内容备份项目|
-|[当然我在扯淡](https://henix.github.io/feeds/yinwang/)|第三方归档|2015-07-02|2021-05-16|博客文章订阅归档；[源码仓库](https://github.com/henix/feeds)|
+这些备份由本站或第三方维护。日期来自对应的公开仓库，按北京时间（UTC+8）显示。最近更新指默认分支的最新提交，列表按该日期倒序。收录内容的发表日期另计。
+{: .reference-note}
