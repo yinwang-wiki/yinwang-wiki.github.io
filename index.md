@@ -150,32 +150,34 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 ## 头像与照片
 
+按目前可核实的刊载或收录时间从早到晚排列。照片的拍摄时间尚未核实。
+
 <div class="profile-gallery">
-  <figure>
-    <a href="https://github.com/yinwang0" aria-label="查看王垠的 GitHub 头像">
-      <img src="{{ '/assets/images/profile/yin-wang-pixel-avatar.png' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的绿色点阵风格头像">
-    </a>
-    <figcaption>绿色点阵头像</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/profile/yin-wang-side-portrait.png' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的侧面照片">
-    <figcaption>侧面照片</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/profile/yin-wang-portrait.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的个人照片">
-    <figcaption>个人照片</figcaption>
-  </figure>
   <figure>
     <a href="https://news.sina.com.cn/s/2005-10-22/11597236223s.shtml" aria-label="查看南方都市报 2005 年报道及配图">
       <img src="{{ '/assets/images/profile/yin-wang-press-portrait-2005.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="2005 年南方都市报报道所配的王垠黑白肖像">
     </a>
-    <figcaption>2005 年报道配图</figcaption>
+    <figcaption><time datetime="2005-10-22">2005</time> 年报道配图</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/profile/yin-wang-side-portrait.png' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的侧面照片">
+    <figcaption>侧面照 <time datetime="2023-03-07">2023</time></figcaption>
+  </figure>
+  <figure>
+    <a href="https://github.com/yinwang0" aria-label="查看王垠的 GitHub 头像">
+      <img src="{{ '/assets/images/profile/yin-wang-pixel-avatar.png' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的绿色点阵风格头像">
+    </a>
+    <figcaption>点阵头像 <time datetime="2023-03-07">2023</time></figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/profile/yin-wang-portrait.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠的个人照片">
+    <figcaption>个人照片 <time datetime="2025-07-29">2025</time></figcaption>
   </figure>
   <figure>
     <a href="https://weibo.com/u/6347862377" aria-label="访问王垠的微博主页">
       <img src="{{ '/assets/images/profile/yin-wang-weibo-avatar.jpg' | relative_url }}" width="112" height="112" loading="lazy" decoding="async" alt="王垠微博头像的站内存档">
     </a>
-    <figcaption>微博头像存档</figcaption>
+    <figcaption>微博 <time datetime="2026-07-16">2026-07</time></figcaption>
   </figure>
   <figure>
     <a href="https://www.sina.cn/media/6347862377" aria-label="查看王垠微博头像的来源页面">
