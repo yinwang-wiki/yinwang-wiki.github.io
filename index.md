@@ -199,18 +199,19 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 ## 网站与社交账号
 
-|名称|类型|说明|
-|:--|:--|:--|
-|[Surely I am Joking（当然我在扯淡）](https://www.yinwang.org/)|个人网站|现含文章、[手记](https://www.yinwang.org/notes)与课程栏目|
-|[Yin’s Memos](https://yinwang0.substack.com/)|Substack|英文备忘录|
-|[垠的备忘录](https://yinwang1.substack.com/)|Substack|中文备忘录|
-|[Surely I Am Joking](https://yinwang0.wordpress.com/)|WordPress|历史英文站；2022-11-20 公告迁往 Substack|
-|[王垠的草稿本](https://yinwang1.wordpress.com/)|WordPress|历史中文站；2022-11-20 公告迁往 Substack|
-|[最后的科学家·垠](https://weibo.com/u/6347862377)|微博|曾用名“不再关心人类de垠”；2026 年 9 月宣布停用，历史内容仍可查阅|
-|[yinwang0](https://www.instagram.com/yinwang0/)|Instagram|公开资料显示名称为 Ian Wang；帖子正文浏览受登录限制|
-|[Yin Wang](https://www.linkedin.com/in/yinwang/)|LinkedIn|职业资料页|
-|[yinwang0](https://github.com/yinwang0)|GitHub|开源项目主页|
-|[yinwang0’s gists](https://gist.github.com/yinwang0)|GitHub Gist|可见 Scheme 等代码片段|
+|平台|链接与说明|
+|:--|:--|
+|个人网站|[当然我在扯淡](https://www.yinwang.org/) · 文章、[手记](https://www.yinwang.org/notes)与课程|
+|Substack|[垠的备忘录](https://yinwang1.substack.com/)（中文） · [Yin’s Memos](https://yinwang0.substack.com/)（英文）|
+|微博|[最后的科学家·垠](https://weibo.com/u/6347862377) · 2026 年 9 月宣布停用 · [微博存档](https://smallyunet.github.io/yinwang-weibo/)|
+|Instagram|[@yinwang0](https://www.instagram.com/yinwang0/) · 帖子需登录查看|
+|LinkedIn|[Yin Wang](https://www.linkedin.com/in/yinwang/)|
+|GitHub|[yinwang0](https://github.com/yinwang0) · [Gists](https://gist.github.com/yinwang0)（含 Scheme 等代码片段）|
+|WordPress（旧站）|[王垠的草稿本](https://yinwang1.wordpress.com/)（中文） · [Surely I Am Joking](https://yinwang0.wordpress.com/)（英文）|
+{: .accounts-table}
+
+微博曾用名为「不再关心人类de垠」。Instagram 显示名为 Ian Wang。WordPress 旧站于 2022-11-20 公告迁往 Substack。
+{: .accounts-note}
 
 ## 开源项目<span id="开源项目最后核验2026-10-22" aria-hidden="true" style="scroll-margin-top: 80px"></span> {#开源项目}
 

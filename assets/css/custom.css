@@ -311,6 +311,19 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
   vertical-align: top;
 }
 #git-wiki-content td a { overflow-wrap: anywhere; }
+#git-wiki-content .accounts-table {
+  display: table;
+  table-layout: fixed;
+  margin-bottom: 12px;
+}
+#git-wiki-content .accounts-table :is(th, td) { min-width: 0; }
+#git-wiki-content .accounts-table :is(th, td):first-child {
+  width: clamp(6.25rem, 22%, 9.5rem);
+}
+#git-wiki-content .accounts-note {
+  color: var(--wiki-muted);
+  font-size: 0.9rem;
+}
 #git-wiki-content blockquote { border-left-color: var(--wiki-border); }
 #git-wiki-content pre { background: var(--wiki-surface-muted); border-color: var(--wiki-border); }
 #git-wiki-content code { color: var(--wiki-text); }
