@@ -2,7 +2,7 @@
 
 ## 本站说明
 
-本站是社区维护的非官方网站，用于整理公开资料和保存历史文章，不由王垠本人维护，也不代表王垠本人的立场。归档正文保留作者当时的表达，本站未逐篇进行事实核验；原始内容的权利归原作者或相应权利人所有。详见[归档文章]({{ '/archive/' | relative_url }})和[编辑与归档政策]({{ '/EDITORIAL_POLICY.html' | relative_url }})。（最后复核：2026-10-22）
+本站是社区维护的非官方网站，用于整理公开资料并提供来源链接。原始内容的权利归原作者或相应权利人所有。详见[内容备份与镜像](#内容备份与镜像)及[编辑与归档政策]({{ '/EDITORIAL_POLICY.html' | relative_url }})。（最后复核：2026-10-22）
 
 ## 人物简介
 
@@ -20,7 +20,7 @@
 
 清华计算机系官方的[《与时俱进三十年的电子设计自动化研究室》](https://www.cs.tsinghua.edu.cn/info/1169/4062.htm)说明，EDA 研究室隶属于计算机系软件所，研究领域包括集成电路计算机辅助设计，并介绍洪先龙是该研究方向的创建者和负责人之一、经彤后来也是研究室成员。这可以解释王垠论文合作者、软件所和研究方向之间的联系，但现有清华公开页面没有直接写明其正式导师，本站不根据共同署名单独认定导师关系。
 
-王垠在归档文章[《清华梦的粉碎》]({{ '/blog/posts/2005/06/06/清华梦的粉碎.html' | relative_url }})中自述于 2005 年申请放弃清华博士学位。同期报道能够确认其公开提出退学申请，却不能单独证明教务手续最终生效的准确日期；其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将清华经历列为 2001 至 2006 年、研究内容为电子设计自动化算法，但没有列出清华学位。截至 2026 年 10 月 22 日，本次查阅的公开资料仍未提供王垠的清华博士学位论文、学位授予记录或校方退学决定，因此将其表述为“曾为清华大学计算机系直博生，后申请退学”，不称其为清华博士毕业生。
+王垠在[《清华梦的粉碎》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_20050927_%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E_20050927.html)中自述于 2005 年申请放弃清华博士学位。同期报道能够确认其公开提出退学申请，却不能单独证明教务手续最终生效的准确日期；其当前公开的 [LinkedIn 职业履历](https://www.linkedin.com/in/yinwang/)将清华经历列为 2001 至 2006 年、研究内容为电子设计自动化算法，但没有列出清华学位。截至 2026 年 10 月 22 日，本次查阅的公开资料仍未提供王垠的清华博士学位论文、学位授予记录或校方退学决定，因此将其表述为“曾为清华大学计算机系直博生，后申请退学”，不称其为清华博士毕业生。
 
 ### Cornell 经历
 
@@ -52,9 +52,9 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 ### Coverity、Voxer 与 Sourcegraph
 
-2012 年 12 月，王垠据其公开履历加入旧金山的 Coverity，职位为 Static Analysis Engineer。他在归档文章[《半年来的工作感受》]({{ '/blog/posts/2013/06/17/半年来的工作感受.html' | relative_url }})中称自己在 Coverity 从事静态分析软件开发；两天后的[《我离开了 Coverity》]({{ '/blog/posts/2013/06/19/我离开了Coverity.html' | relative_url }})明确写到已经辞职。这与 LinkedIn 所列的 2012 年 12 月至 2013 年 6 月任期吻合，但两篇文章均属于本人陈述，不能替代公司记录。
+2012 年 12 月，王垠据其公开履历加入旧金山的 Coverity，职位为 Static Analysis Engineer。他在[《半年来的工作感受》存档](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_06_17_work_20150206.html)中称自己在 Coverity 从事静态分析软件开发；两天后的[《我离开了 Coverity》](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_06_19_bye-coverity_20170507.html)明确写到已经辞职。这与 LinkedIn 所列的 2012 年 12 月至 2013 年 6 月任期吻合，但两篇文章均属于本人陈述，不能替代公司记录。
 
-离开 Coverity 后，他短暂任职于 Voxer。[《再见 Voxer，你好 Sourcegraph》]({{ '/blog/posts/2013/11/08/再见-Voxer-你好-Sourcegraph.html' | relative_url }})称他经 Coverity 创始人介绍加入 Voxer，作为该公司的第一个 Data Engineer 工作了两个多月，随后于 2013 年 11 月决定加入 Sourcegraph。这段 Voxer 经历没有列入本次查阅的 LinkedIn 履历，现有文章也不足以确定准确入职月份；[《在 Sourcegraph 的第三天》]({{ '/blog/posts/2013/11/13/在-Sourcegraph-的第三天.html' | relative_url }})则称已经正式加入 Sourcegraph，并开始把 PySonar2 接入其系统。
+离开 Coverity 后，他短暂任职于 Voxer。[《再见 Voxer，你好 Sourcegraph》](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_11_08_voxer-sg_20150118.html)称他经 Coverity 创始人介绍加入 Voxer，作为该公司的第一个 Data Engineer 工作了两个多月，随后于 2013 年 11 月决定加入 Sourcegraph。这段 Voxer 经历没有列入本次查阅的 LinkedIn 履历，现有文章也不足以确定准确入职月份；[《在 Sourcegraph 的第三天》](https://web.archive.org/web/20140210021252/http://www.yinwang.org/blog-cn/2013/11/13/sg3/)则称已经正式加入 Sourcegraph，并开始把 PySonar2 接入其系统。
 
 其公开履历将 Sourcegraph 的任期列为 2013 年 11 月至 2014 年 5 月，地点为旧金山，职位为 Lead Researcher。公司侧也留有同期技术记录：2014 年 2 至 3 月，GitHub 账号 [`yinwang0`](https://github.com/yinwang0)以 `Yin Wang <yinwang0@gmail.com>` 身份在 Sourcegraph 官方组织的 [`annotate`](https://github.com/sourcegraph/annotate/commit/476cb837e50eaffead84b1e756dd73f68d7686e3)、[`vcsserver`](https://github.com/sourcegraph/vcsserver/commit/6e9b9afca4292ec50c671e13b7ec5631f4758fcf)、[`syntaxhighlight`](https://github.com/sourcegraph/syntaxhighlight/commit/62248d05ecfbfc9c42d2fafe93e9bd2e54c5a27b)和 [`go-vcs`](https://github.com/sourcegraph/go-vcs/commit/f8ff6a70dc4b9b186e9ba4813174b10285324014)仓库中留下提交。这些记录能够有力佐证其在所述时期参与 Sourcegraph 工程工作，但不能单独证明劳动关系或 `Lead Researcher` 职级。
 
@@ -62,11 +62,11 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 2014 年 10 月至 2016 年 7 月，其公开履历列有位于 Mountain View 的 Shape Security Senior Software Engineer 经历。Shape Security 官方 GitHub 组织保存了同期记录：2015 年 2 月，`yinwang0` 在 [`shift-java`](https://github.com/shapesecurity/shift-java/commit/563f47dff86f1506acd9e0d7cc2e8da8685d2730)仓库合并代码；同年 5 月又以该账号发起了修复 [pull request #57](https://github.com/shapesecurity/shift-java/pull/57)。这些公司官方组织内的记录可以佐证其参与工程开发，但仍不能单独确认 `Senior Software Engineer` 职级。
 
-2016 年 7 月至 2017 年 4 月，其公开履历列有位于 Sunnyvale 的 Microsoft Senior Software Engineer 经历。王垠在 2017 年的[《更新》]({{ '/blog/posts/2017/04/06/更新.html' | relative_url }})中称自己所在团队的产品是企业级存储设备 StorSimple；随后发表的[《微软的秘密离职协议》]({{ '/blog/posts/2017/05/10/微软的秘密离职协议.html' | relative_url }})描述了离职过程。文章时间和内容与 LinkedIn 所列 2016 年 7 月至 2017 年 4 月的任期基本一致，但截至 2026 年 10 月 22 日，本次复核仍未补得能够独立确认其职位的 Microsoft 公司侧公开材料；搜索中出现的多位同名 Microsoft 员工和论文作者亦未被纳入。
+2016 年 7 月至 2017 年 4 月，其公开履历列有位于 Sunnyvale 的 Microsoft Senior Software Engineer 经历。王垠在 2017 年的[《更新》](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_04_06_update_20180409.html)中称自己所在团队的产品是企业级存储设备 StorSimple；随后发表的[《微软的秘密离职协议》](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)描述了离职过程。文章时间和内容与 LinkedIn 所列 2016 年 7 月至 2017 年 4 月的任期基本一致，但截至 2026 年 10 月 22 日，本次复核仍未补得能够独立确认其职位的 Microsoft 公司侧公开材料；搜索中出现的多位同名 Microsoft 员工和论文作者亦未被纳入。
 
 ### Intel 与 F5
 
-2018 年 7 月至 2020 年 4 月，其公开履历列有位于上海的 Intel Staff Software Engineer 经历。Intel 官方 GitHub 组织提供了同期旁证。2019 年 3 月，`yinwang0` 以 `Yin Wang <yinwang0@gmail.com>` 身份在 Intel 的 [`Deep-learning-math-kernel-research`](https://github.com/intel/Deep-learning-math-kernel-research/commit/a35e186af265df8a6247af42953590584b1ec276)仓库提交代码，另有包含 `prv-yin-test` 分支的[合并提交](https://github.com/intel/Deep-learning-math-kernel-research/commit/a1c2befe81debb11d1cffafc779109a438f6b1b6)。王垠在[《2020 新年寄语》]({{ '/blog/posts/2019/12/31/2020新年寄语.html' | relative_url }})中也称自己即将离开 Intel。两类材料与 LinkedIn 所列 2018 年 7 月至 2020 年 4 月任期相符；GitHub 记录能够佐证其参与 Intel 项目，但不能单独确认 `Staff Software Engineer` 职级。
+2018 年 7 月至 2020 年 4 月，其公开履历列有位于上海的 Intel Staff Software Engineer 经历。Intel 官方 GitHub 组织提供了同期旁证。2019 年 3 月，`yinwang0` 以 `Yin Wang <yinwang0@gmail.com>` 身份在 Intel 的 [`Deep-learning-math-kernel-research`](https://github.com/intel/Deep-learning-math-kernel-research/commit/a35e186af265df8a6247af42953590584b1ec276)仓库提交代码，另有包含 `prv-yin-test` 分支的[合并提交](https://github.com/intel/Deep-learning-math-kernel-research/commit/a1c2befe81debb11d1cffafc779109a438f6b1b6)。王垠在[《2020 新年寄语》](https://smallyunet.github.io/yinwang-blog/blog-cn_2019_12_31_2020-new-year_20200228.html)中也称自己即将离开 Intel。两类材料与 LinkedIn 所列 2018 年 7 月至 2020 年 4 月任期相符；GitHub 记录能够佐证其参与 Intel 项目，但不能单独确认 `Staff Software Engineer` 职级。
 
 2023 年 1 月，其公开履历记载他在伦敦加入 F5，职位为 Principal Engineer；2024 年 6 月，工作地点转为东京。本次查阅时，LinkedIn 仍将东京这段经历标为“Present”，第三方名录 [The Org](https://theorg.com/org/f5-networks/person/yin-wang)也保留 F5 职位信息。但职业资料页不能自动反映后续变化，The Org 也不属于 F5 官方证明，因此需要结合更晚的本人陈述阅读。
 
@@ -106,7 +106,7 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 ### 清华退学公开信
 
-2005 年 9 月，[《清华梦的粉碎》]({{ '/blog/posts/2005/06/06/清华梦的粉碎.html' | relative_url }})已在网上流传。王垠在信中公开提出退学，并以自己的求学经历批评应试教育和以发表论文为导向的博士培养。围绕退学决定和培养制度的讨论见[《新周刊》同期专访](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)及[《南方都市报》同期评论](https://news.sina.com.cn/c/2005-09-29/10397897525.shtml)。原文首次发布日期和教务手续生效日期仍待核实，其学业和研究记录见[清华大学经历](#清华大学经历)。
+2005 年 9 月，[《清华梦的粉碎》](https://smallyunet.github.io/yinwang-blog/blog-cn_20050927_%E6%B8%85%E5%8D%8E%E6%A2%A6%E7%9A%84%E7%B2%89%E7%A2%8E_20050927.html)已在网上流传。王垠在信中公开提出退学，并以自己的求学经历批评应试教育和以发表论文为导向的博士培养。围绕退学决定和培养制度的讨论见[《新周刊》同期专访](https://news.sina.com.cn/e/2005-10-17/12398033042.shtml)及[《南方都市报》同期评论](https://news.sina.com.cn/c/2005-09-29/10397897525.shtml)。原文首次发布日期和教务手续生效日期仍待核实，其学业和研究记录见[清华大学经历](#清华大学经历)。
 
 ### 公开批评 Google 实习经历
 
@@ -130,7 +130,7 @@ Grok 项目本身亦有机构和第三方记录。Stanford EE Computer Systems C
 
 ### 微软的个人罢工与「封杀」争议
 
-2017 年 4 月，王垠发表《一个人的罢工》，称因不满职级、薪酬和加班安排，已停止为微软工作。随后，他在 5 月 10 日发表的[《微软的秘密离职协议》]({{ '/blog/posts/2017/05/10/微软的秘密离职协议.html' | relative_url }})中写道，双方就离职时是否退还签约奖金展开谈判。按他的说法，微软提出的协议包含限制他今后受雇于微软及部分关联公司的条款，他拒绝签署这份协议。
+2017 年 4 月，王垠发表《一个人的罢工》，称因不满职级、薪酬和加班安排，已停止为微软工作。随后，他在 5 月 10 日发表的[《微软的秘密离职协议》](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)中写道，双方就离职时是否退还签约奖金展开谈判。按他的说法，微软提出的协议包含限制他今后受雇于微软及部分关联公司的条款，他拒绝签署这份协议。
 
 [虎嗅的同期报道](https://www.huxiu.com/article/194548.html)引用了《一个人的罢工》和离职协议条款，并把这件事称为「全球封杀」。现有公开资料可追溯到王垠所述的协议条款，限制是否实际执行仍缺乏独立证据。
 
@@ -144,9 +144,9 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 ### 关于相对论与阿波罗登月的争议文章
 
-2021 年 7 月 12 日，王垠在[《对爱因斯坦和相对论的怀疑》]({{ '/blog/posts/2021/07/12/对爱因斯坦和相对论的怀疑.html' | relative_url }})中质疑相对论的实验证据和实际用途。作为对照，发表于《Science》的[光学原子钟实验](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=905055)报告了相对运动和高度差引起的时间膨胀效应。
+2021 年 7 月 12 日，王垠在[《对爱因斯坦和相对论的怀疑》](https://smallyunet.github.io/yinwang-blog/blog-cn_2021_07_12_einstein-relativity_20210730.html)中质疑相对论的实验证据和实际用途。作为对照，发表于《Science》的[光学原子钟实验](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=905055)报告了相对运动和高度差引起的时间膨胀效应。
 
-同年 7 月 24 日，王垠发表[《阿波罗登月是骗局》]({{ '/blog/posts/2021/07/24/阿波罗登月是骗局.html' | relative_url }})，主张阿波罗载人登月造假。NASA 公布了[六次着陆的位置与月球勘测轨道飞行器的影像资料](https://science.nasa.gov/resource/apollo-landing-sites-with-moon-phases/)。
+同年 7 月 24 日，王垠发表[《阿波罗登月是骗局》](https://smallyunet.github.io/yinwang-blog/blog-cn_2021_07_24_apollo_20210726.html)，主张阿波罗载人登月造假。NASA 公布了[六次着陆的位置与月球勘测轨道飞行器的影像资料](https://science.nasa.gov/resource/apollo-landing-sites-with-moon-phases/)。
 
 ## 头像与照片
 
@@ -224,7 +224,6 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 
 |名称|类型|创建日期|最近更新|说明|
 |:--|:--|:--|:--|:--|
-|[王垠百科文章归档]({{ '/archive/' | relative_url }})|本站归档|2023-03-06|2026-10-22|本站收录的文章列表；[源码仓库](https://github.com/yinwang-wiki/yinwang-wiki.github.io)|
 |[王垠博客备份（yinwang-archive）](https://yinwang.jrtx.site/)|第三方镜像|2018-11-12|2026-10-17|原 jrtxio/yinwangdl、turinglambdaai/yinwangdl 均迁至此仓库；[源码仓库](https://github.com/turinglambdaai/yinwang-archive)|
 |[博客文章镜像](https://smallyunet.github.io/yinwang-blog/)|第三方镜像|2026-01-19|2026-10-04|博客历史文章、资源与演示存档；[源码仓库](https://github.com/smallyunet/yinwang-blog)|
 |[微博内容镜像](https://smallyunet.github.io/yinwang-weibo/)|第三方镜像|2026-01-26|2026-09-24|微博存档可见至 2026-09-24；[源码仓库](https://github.com/smallyunet/yinwang-weibo)|
@@ -244,7 +243,7 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 |[Yin's Blog - Mind Map](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|思维导图|2013|页面作者标为 Yin Wang，最后修改日期为 2013-04-28|
 |[Yin's Mid-Term Memory](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|思维导图|2013|页面作者标为 Yin Wang，创建于 2013-04-26，修改于 2013-07-23|
 |[Register Allocation By Model Transformer Semantics](https://arxiv.org/abs/1202.5539)|学术论文|2012|合作者：R. Kent Dybvig|
-|[Static Analysis of Dynamically Typed Languages made Easy](https://www.yinwang.org/resources/pysonar-slides.pdf)|演讲幻灯片|2012|动态语言静态分析；[本人文章]({{ '/blog/posts/2013/06/21/PySonar-的工作原理.html' | relative_url }})称演讲于 2012 年 9 月，现存 PDF 导出于 2013-06-22|
+|[Static Analysis of Dynamically Typed Languages made Easy](https://www.yinwang.org/resources/pysonar-slides.pdf)|演讲幻灯片|2012|动态语言静态分析；[本人文章](https://smallyunet.github.io/yinwang-blog/blog-cn_2013_06_21_pysonar-slides_20130626.html)称演讲于 2012 年 9 月，现存 PDF 导出于 2013-06-22|
 |[The Polygonal Contraction Heuristic for Rectilinear Steiner Tree Construction](https://doi.org/10.1145/1120725.1120731)|学术论文|2005|ASP-DAC 2005 论文；出版商登记的 [Crossref 书目](https://api.crossref.org/works/10.1145/1120725.1120731)可交叉查阅|
 |[同篇论文的 DBLP 记录](https://dblp.org/rec/conf/aspdac/WangHJYHY05)|DBLP 记录|2005|论文书目记录；本次访问受限，另以上方 Crossref 书目核对论文|
 |[ASP-DAC 2005 Best Papers](https://www.cecs.uci.edu/~papers/aspdac06/toc/BESTPPR.PDF)|获奖资料|2005|ASP-DAC 2005 获奖论文名单|
@@ -286,6 +285,6 @@ P vs NP 问的是，所有能在多项式时间内验证候选解的判定问题
 |名称|来源|日期|说明|
 |:--|:--|:--|:--|
 |[再谈“P vs NP”问题](https://yinwang.jrtx.site/posts/pnp2/)|本人博客的第三方存档|2019-07-21|日期为博客标注的原始发表日；面试经过见[相关事件与观点](#相关事件与观点)|
-|[微软的秘密离职协议]({{ '/blog/posts/2017/05/10/微软的秘密离职协议.html' | relative_url }})|本人文章的本站归档|2017-05-10|关于离职经过与协议条款的本人陈述|
+|[微软的秘密离职协议](https://smallyunet.github.io/yinwang-blog/blog-cn_2017_05_10_microsoft-separation_20180329.html)|本人文章的第三方存档|2017-05-10|关于离职经过与协议条款的本人陈述|
 |[王垠的一条微博](https://blog.csdn.net/lcfactorization/article/details/51052324)|CSDN 转载|2016-04-03|日期取转载页面发布时间|
 |[对博士学位说永别](https://developer.aliyun.com/article/501078)|阿里云开发者社区用户转载|2012-09-09|关于离开博士培养体系的本人文章；日期取转载页面标注|

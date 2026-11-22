@@ -10,8 +10,8 @@
 ## 仓库结构
 
 - `index.md`：网站首页与资料索引
-- `_posts/`：历史文章归档及其来源元数据
-- `archive.md`：按主题整理的文章目录
+- `_posts/`：保留的独立历史资料及其来源元数据
+- `redirects/`、`archive.md`：旧文章和归档目录链接的跳转规则
 - `EDITORIAL_POLICY.md`：编辑、来源与归档政策
 - `wiki/`：专题资料
 - `assets/`：样式、图片与归档文件

@@ -106,7 +106,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 .site-brand img { max-width: 48px; max-height: 48px; }
 
 .git-wiki-page-list { margin-bottom: 28px; }
-.page-list-title, .post-list-title {
+.page-list-title {
   display: block;
   margin-bottom: 8px;
   color: var(--wiki-heading);
@@ -114,10 +114,9 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
   font-weight: 700;
   letter-spacing: 0.08em;
 }
-.page-list, .post-list { margin: 0; padding-left: 20px; }
-.page-list li, .post-list li { margin: 5px 0; line-height: 1.45; }
-.page-list a, .post-list a, .read-all { font-size: 14px; }
-.read-all { display: inline-flex; margin-top: 8px; font-weight: 600; }
+.page-list { margin: 0; padding-left: 20px; }
+.page-list li { margin: 5px 0; line-height: 1.45; }
+.page-list a { font-size: 14px; }
 
 .git-wiki-page {
   min-width: 0;
